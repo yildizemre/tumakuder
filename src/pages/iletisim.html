@@ -1,0 +1,110 @@
+<!--meta
+title: İletişim
+desc: TÜMAKÜDER iletişim bilgileri, adres, telefon, banka hesap bilgileri ve iletişim formu.
+nav: iletisim
+-->
+
+<section class="page-hero">
+  <div class="container">
+    <div class="page-hero__frame">
+      <h1>İletişim</h1>
+      <div class="crumb"><a href="index.html">Anasayfa</a><span>›</span> İletişim</div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="contact-grid">
+      <div>
+        <div class="eyebrow eyebrow--left">Bize Ulaşın</div>
+        <h2>Tüm Akü İthalatçıları ve Üreticileri Derneği</h2>
+
+        <div class="doc-list" style="margin:26px 0">
+          <div class="doc" style="cursor:default">
+            <span class="doc__ico" style="background:var(--amber-100);color:var(--amber-600)">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            </span>
+            <span><b>Adres</b><small>Atatürk Mah. Yakut Cad. Zümrüt Sitesi 2E Blok D:1<br>Ataşehir / İstanbul</small></span>
+          </div>
+          <div class="doc" style="cursor:default">
+            <span class="doc__ico" style="background:var(--amber-100);color:var(--amber-600)">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+            </span>
+            <span><b>Telefon</b><small><a href="tel:+902164566777">+90 216 456 67 77</a> &nbsp;·&nbsp; <a href="tel:+902164566778">+90 216 456 67 78</a><br>Faks: +90 216 456 67 79</small></span>
+          </div>
+          <div class="doc" style="cursor:default">
+            <span class="doc__ico" style="background:var(--amber-100);color:var(--amber-600)">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/></svg>
+            </span>
+            <span><b>E-Posta</b><small><a href="mailto:tumakuder@tumakuder.org">tumakuder@tumakuder.org</a><br><a href="mailto:bilgi@tumakuder.org">bilgi@tumakuder.org</a></small></span>
+          </div>
+          <div class="doc" style="cursor:default">
+            <span class="doc__ico" style="background:var(--amber-100);color:var(--amber-600)">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/></svg>
+            </span>
+            <span><b>Vergi Bilgileri</b><small>Vergi Dairesi: Kozyatağı &nbsp;·&nbsp; VN: 8740159082</small></span>
+          </div>
+        </div>
+
+        <div class="map-frame">
+          <iframe src="https://maps.google.com/maps?q=40.987878,29.110696&hl=tr&z=16&output=embed" title="TÜMAKÜDER konumu" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+        <p style="font-size:.86rem;color:var(--ink-400);margin-top:10px">Koordinat: <a href="https://maps.google.com/?q=40.987878,29.110696" target="_blank" rel="noopener">40.987878, 29.110696</a></p>
+      </div>
+
+      <div>
+        <div class="panel">
+          <h3>İletişim Formu</h3>
+          <p style="font-size:.9rem;color:var(--ink-400)">Mesajınız derneğimize iletilir. En kısa sürede dönüş yapılır.</p>
+          <form name="iletisim" method="POST" data-netlify="true" netlify-honeypot="sirket-adi" action="mesaj-alindi.html">
+            <input type="hidden" name="form-name" value="iletisim">
+            <p style="display:none"><label>Doldurmayınız: <input name="sirket-adi"></label></p>
+            <div class="form-row">
+              <div class="field"><label for="ad">Ad – Soyad</label><input id="ad" name="ad" required></div>
+              <div class="field"><label for="eposta">E-Posta</label><input id="eposta" name="eposta" type="email" required></div>
+            </div>
+            <div class="form-row">
+              <div class="field"><label for="telefon">Telefon</label><input id="telefon" name="telefon"></div>
+              <div class="field"><label for="konu">Konu</label><input id="konu" name="konu" required></div>
+            </div>
+            <div class="field"><label for="mesaj">Mesaj</label><textarea id="mesaj" name="mesaj" required></textarea></div>
+            <button class="btn btn--amber" type="submit">Mesajı Gönder <i>↗</i></button>
+            <p class="form-note" style="margin-top:14px">Form Netlify Forms ile çalışır. Yayına alınmadan önce test ederken mesajlar
+              <a href="mailto:tumakuder@tumakuder.org">tumakuder@tumakuder.org</a> adresine iletilmez.</p>
+          </form>
+        </div>
+
+        <div class="panel" style="margin-top:26px">
+          <h3>Banka Hesap Bilgileri</h3>
+          <div style="display:grid;gap:14px;margin-top:16px">
+            <div class="bank">
+              <img src="assets/img/garanti-ikon.jpg" alt="Garanti BBVA">
+              <div>
+                <b>Garanti BBVA</b>
+                <small>Ataşehir – İstanbul &nbsp;·&nbsp; Şube: 391 &nbsp;·&nbsp; Hesap: 6296049</small>
+                <span class="iban">TR03 0006 2000 3910 0006 2960 49</span>
+              </div>
+            </div>
+            <div class="bank">
+              <img src="assets/img/akbank-ikon.jpg" alt="Akbank">
+              <div>
+                <b>Akbank</b>
+                <small>Ataşehir – İstanbul &nbsp;·&nbsp; Şube: 0767 &nbsp;·&nbsp; Hesap: 0052534</small>
+                <span class="iban">TR35 0004 6007 6788 8000 0525 34</span>
+              </div>
+            </div>
+            <div class="bank">
+              <img src="assets/img/vakif_logo.jpg" alt="Vakıfbank">
+              <div>
+                <b>Vakıfbank</b>
+                <small>İstanbul Ataşehir &nbsp;·&nbsp; Şube: S00526 &nbsp;·&nbsp; Hesap: 158007314744201</small>
+                <span class="iban">TR02 0001 5001 5800 7314 7442 01</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

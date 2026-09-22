@@ -1,0 +1,105 @@
+<!--meta
+title: Depozito ve GEKAP Bedelleri
+desc: Yıllara göre akümülatör GEKAP / depozito bedelleri tablosu ve toplam depozito tutarını hesaplayan araç.
+nav: mevzuat
+-->
+
+<section class="page-hero">
+  <div class="container">
+    <div class="page-hero__frame">
+      <h1>Depozito ve GEKAP Bedelleri</h1>
+      <div class="crumb"><a href="index.html">Anasayfa</a><span>›</span> Mevzuat <span>›</span> Bedeller</div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <div class="eyebrow">Tutarlar ve Hesaplama</div>
+      <h2>Yıllık Bedeller ve Depozito Hesaplayıcı</h2>
+      <p>Akümülatör kategorilerine göre yürürlükteki tutarları görüntüleyin, satış adetlerinizi girerek toplam depozito tutarınızı hesaplayın.</p>
+    </div>
+
+    <div style="display:flex;gap:16px;flex-wrap:wrap;align-items:center;margin-bottom:26px">
+      <label for="yil-sec" style="font-family:var(--font-head);font-weight:600;font-size:.92rem">Yıl</label>
+      <select class="input" id="yil-sec" data-hesap-yil style="flex:0 0 160px"></select>
+      <span class="count-pill" data-hesap-kaynak></span>
+    </div>
+
+    <div class="callout" data-hesap-uyari style="margin-bottom:28px">
+      <span class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><path d="M12 9v4M12 17h.01"/></svg></span>
+      <p><strong>Tutarlar henüz sisteme girilmemiştir.</strong> Resmî tutarlar için tebliğ ekindeki listeye bakınız. Tutarlar <code>assets/data/bedeller.json</code> dosyasına girildiğinde tablo ve hesaplayıcı otomatik olarak çalışır.</p>
+    </div>
+
+    <div class="calc">
+      <div>
+        <div class="panel">
+          <h3 style="font-size:1.08rem;margin-bottom:.2em">Adetleri girin</h3>
+          <p style="font-size:.9rem;color:var(--ink-400)">Piyasaya sürdüğünüz akümülatör adetlerini kategori bazında yazın.</p>
+          <div data-hesap></div>
+        </div>
+
+        <div style="margin-top:26px">
+          <h3 style="font-size:1.08rem">Yıllık bedel tablosu</h3>
+          <div class="table-wrap" data-bedel-tablo></div>
+        </div>
+      </div>
+
+      <aside>
+        <div class="calc-total">
+          <small>Toplam depozito tutarı</small>
+          <b data-hesap-toplam>0,00 ₺</b>
+          <small>Depozito bedelleri GEKAP tutarları ile eşit değerlerde uygulanır. Hesaplama yalnızca bilgilendirme amaçlıdır.</small>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<section class="section section--soft section--tight">
+  <div class="container">
+    <div class="layout">
+      <div class="prose">
+        <h2 style="margin-top:0">Bedeller Nasıl Belirlenir?</h2>
+        <p>2872 sayılı Çevre Kanunu'nun Ek 11. maddesi uyarınca, Kanuna ekli (1) sayılı listede yer alan geri kazanım katılım payı tutarları, takvim yılı başından geçerli olmak üzere her yıl bir önceki yıla ilişkin olarak tespit ve ilan edilen <strong>yeniden değerleme oranında</strong> artırılarak uygulanır. Bu şekilde hesaplanan tutarların %5'ini aşmayan kesirler dikkate alınmaz.</p>
+        <p>2024 yılı için, 2023 yılı yeniden değerleme oranı olan <strong>%58,46</strong> esas alınarak tutarlar 1 Ocak 2024'ten itibaren yeniden belirlenmiştir. Depozito bedelleri, aynı tarih itibarıyla faturalarda GEKAP tutarları ile <strong>eşit değerlerde</strong> uygulanır.</p>
+
+        <h3>Faturalama kuralları</h3>
+        <ul>
+          <li>Depozito bedeli satış faturasında <strong>ayrı bir kalem</strong> olarak gösterilir.</li>
+          <li>Bedel <strong>KDV matrahına dâhil</strong> edilir.</li>
+          <li>Faturanın altında <strong>“Depozitoludur”</strong> ibaresi yer alır.</li>
+          <li>Tahsil edilen ve geri ödenen bedellere ilişkin mali kayıtlar tutulur.</li>
+        </ul>
+
+        <div style="display:flex;gap:12px;flex-wrap:wrap">
+          <a class="btn btn--green" href="mevzuat.html#gekap">Tebliğ ve Belgeler <i>↗</i></a>
+          <a class="btn btn--ghost" href="depozito-sistemi.html">Depozito Sistemi <i>↗</i></a>
+        </div>
+      </div>
+
+      <aside>
+        <div class="sticky">
+          <div class="panel">
+            <h3 style="font-size:1.02rem">Örnek Belgeler</h3>
+            <div class="doc-list">
+              <a class="doc" href="assets/img/Depozitolu-EFatura.jpg" target="_blank" rel="noopener">
+                <span class="doc__ico">JPG</span>
+                <span><b style="font-size:.9rem">E-Fatura Örneği</b><small>Faturada gösterim</small></span>
+              </a>
+              <a class="doc" href="assets/docs/Depozitolu-Muhasebe-Kaydi.xls">
+                <span class="doc__ico doc__ico--xls">XLS</span>
+                <span><b style="font-size:.9rem">Muhasebe Kaydı</b><small>Örnek kayıt</small></span>
+              </a>
+              <a class="doc" href="assets/docs/20231229-6-1.pdf" target="_blank" rel="noopener">
+                <span class="doc__ico doc__ico--pdf">PDF</span>
+                <span><b style="font-size:.9rem">2024 Tebliğ Eki</b><small>Resmî tutar listesi</small></span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,87 @@
+<!--meta
+title: Toplama Noktaları Haritası
+desc: Türkiye genelinde atık akümülatör toplama, taşıma ve geri kazanım alanında yetkilendirilmiş firmalar ile asil üyelerin il bazlı dağılımı.
+nav: atik
+-->
+
+<section class="page-hero">
+  <div class="container">
+    <div class="page-hero__frame">
+      <h1>Toplama Noktaları Haritası</h1>
+      <div class="crumb"><a href="index.html">Anasayfa</a><span>›</span> Atık Akümülatörler <span>›</span> Toplama Noktaları</div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <div class="eyebrow">Türkiye Geneli</div>
+      <h2>Bulunduğunuz İldeki Firmalar</h2>
+      <p>Harita üzerinde bir ile tıklayın; o ildeki yetkili toplama-taşıma-geri kazanım firmalarını ve asil üyelerimizi görün.</p>
+    </div>
+
+    <div class="map-layout">
+      <div class="map-card">
+        <div data-harita><p class="map-bos">Harita yükleniyor…</p></div>
+        <div class="map-legend">
+          <span><i style="background:var(--amber-500)"></i> Yoğun firma bulunan iller</span>
+          <span><i style="background:var(--green-600)"></i> Firma bulunan iller</span>
+          <span>Daire büyüklüğü firma sayısıyla orantılıdır</span>
+        </div>
+      </div>
+
+      <div>
+        <div class="panel" style="margin-bottom:22px">
+          <label for="il-sec" style="display:block;font-family:var(--font-head);font-weight:600;font-size:.88rem;margin-bottom:.5rem">İl seçin</label>
+          <select class="input" id="il-sec" data-harita-ara style="width:100%"></select>
+        </div>
+
+        <div class="map-panel">
+          <div class="map-panel__head">
+            <b data-harita-baslik>İSTANBUL</b>
+            <small data-harita-alt></small>
+          </div>
+          <div class="map-panel__body" data-harita-panel></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="callout" style="margin-top:34px">
+      <span class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg></span>
+      <p><strong>Atık akünüzü nereye teslim edeceksiniz?</strong> Tüketiciler atık akümülatörlerini, yeni akü satın aldıkları satış noktasına, bayiye veya araç bakım-onarım yerine teslim ederek depozito bedellerini geri alır. Haritadaki firmalar, bu noktalardan toplanan atık akülerin taşınması ve geri kazanımı için yetkilendirilmiş kuruluşlar ile derneğimizin asil üyeleridir.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section section--soft section--tight">
+  <div class="container">
+    <div class="layout">
+      <div class="prose">
+        <h2 style="margin-top:0">Harita Nasıl Okunur?</h2>
+        <p>Her daire bir ili temsil eder; dairenin büyüklüğü o ildeki toplam firma sayısıyla orantılıdır. Turuncu daireler firma yoğunluğunun en yüksek olduğu illeri gösterir.</p>
+        <ul>
+          <li><strong>Asil üye:</strong> Akümülatör ithalatı veya üretimi yapan, depozito yükümlülüğü bulunan firmalar.</li>
+          <li><strong>Yetkili firma (fahri üye):</strong> Toplama, taşıma, geçici depolama ve geri kazanım alanında lisanslı çözüm ortaklarımız.</li>
+        </ul>
+        <p>Listede yer alan firmalarla doğrudan iletişime geçebilir, atık akümülatör teslimi ve taşıma süreçleri hakkında bilgi alabilirsiniz.</p>
+        <div style="display:flex;gap:12px;flex-wrap:wrap">
+          <a class="btn btn--green" href="uyeler.html">Tüm Üye Listeleri <i>↗</i></a>
+          <a class="btn btn--ghost" href="organizasyon.html">Organizasyon Yapısı <i>↗</i></a>
+        </div>
+      </div>
+      <aside>
+        <div class="panel sticky">
+          <h3 style="font-size:1.05rem">Dikkat Edilmesi Gerekenler</h3>
+          <ul style="padding-left:1.1rem;font-size:.9rem;color:var(--ink-600)">
+            <li>Taşıma, ilgili İl Müdürlüğünden lisans almış firmalarca yapılır.</li>
+            <li>Gönderimler MOTAT sistemi üzerinden bildirilir; açıklama kısmına ithalatçı/üretici firma adı yazılır.</li>
+            <li>Geçici depolama alanlarında atık aküler 90 günden fazla tutulamaz.</li>
+            <li>Her ay kütle denge raporu sözleşmeli firmaya bildirilir.</li>
+          </ul>
+          <a class="btn btn--ghost btn--sm" href="depozito-sistemi.html#gecici-depolama">Ayrıntılı Bilgi <i>↗</i></a>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>

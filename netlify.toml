@@ -1,0 +1,91 @@
+[build]
+  command = "node build.mjs"
+  publish = "."
+
+[[headers]]
+  for = "/assets/css/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/assets/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=2592000"
+
+# Eski WordPress adreslerinden yönlendirmeler
+[[redirects]]
+  from = "/index.php/tumakuder-kimdir/*"
+  to = "/kimdir.html"
+  status = 301
+[[redirects]]
+  from = "/index.php/yonetim-kurulu/*"
+  to = "/yonetim-kurulu.html"
+  status = 301
+[[redirects]]
+  from = "/index.php/tumakuder-tuzugu/*"
+  to = "/tuzuk.html"
+  status = 301
+[[redirects]]
+  from = "/index.php/asil-uye-firma-listesi/*"
+  to = "/uyeler.html"
+  status = 301
+[[redirects]]
+  from = "/index.php/fahri-uye-firma-listesi/*"
+  to = "/uyeler.html#fahri"
+  status = 301
+[[redirects]]
+  from = "/index.php/atik-akumulator-depozito-uygulamasi-sistemi/*"
+  to = "/depozito-sistemi.html"
+  status = 301
+[[redirects]]
+  from = "/index.php/atik-aku-organizasyonu/*"
+  to = "/organizasyon.html"
+  status = 301
+[[redirects]]
+  from = "/index.php/aku-ithalat-bilgileri/*"
+  to = "/aku-ithalat.html"
+  status = 301
+[[redirects]]
+  from = "/index.php/etiketler/*"
+  to = "/etiketler.html"
+  status = 301
+[[redirects]]
+  from = "/index.php/ornek-etiket/*"
+  to = "/ornek-etiket.html"
+  status = 301
+[[redirects]]
+  from = "/index.php/ecbs-kayit/*"
+  to = "/ecbs-kayit.html"
+  status = 301
+[[redirects]]
+  from = "/index.php/mevzuat/*"
+  to = "/mevzuat.html"
+  status = 301
+[[redirects]]
+  from = "/index.php/medya/*"
+  to = "/medya.html"
+  status = 301
+[[redirects]]
+  from = "/index.php/iletisim/*"
+  to = "/iletisim.html"
+  status = 301
+[[redirects]]
+  from = "/index.php/2024-yili-gekap-geri-kazanim-katilim-payi-tutarlari-depozito-bedelleri/*"
+  to = "/duyuru-gekap-2024.html"
+  status = 301
+[[redirects]]
+  from = "/index.php/2024-cevre-uyum-onay-basvurusu/*"
+  to = "/duyuru-cevre-uyum-2024.html"
+  status = 301
+[[redirects]]
+  from = "/index.php/batarya-teknolojileri-zirvesi/*"
+  to = "/duyuru-batarya-zirvesi.html"
+  status = 301
+[[redirects]]
+  from = "/index.php/duyurular/*"
+  to = "/duyurular.html"
+  status = 301
+[[redirects]]
+  from = "/index.php/*"
+  to = "/index.html"
+  status = 301
