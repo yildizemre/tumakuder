@@ -1,0 +1,924 @@
+{
+ "baslik": "TÜM AKÜ İTHALATÇILARI ve ÜRETİCİLERİ DERNEĞİ TÜZÜĞÜ",
+ "tarih": "30.03.2021",
+ "bolumler": [
+  {
+   "no": "1",
+   "baslik": "DERNEĞİN ADI",
+   "maddeler": [
+    {
+     "no": "1.01",
+     "metin": "Derneğin adı; “TÜM AKÜ İTHALATÇILARI ve ÜRETİCİLERİ DERNEĞİ “ dir."
+    },
+    {
+     "no": "1.02",
+     "metin": "Kısa adı; “TÜMAKÜDER” dir."
+    },
+    {
+     "no": "1.03",
+     "metin": "Tüzük içerisinde “TÜMAKÜDER” olarak anılacaktır."
+    },
+    {
+     "no": "1.04",
+     "metin": "İSİM DEĞİŞİKLİĞİ; TÜMAKÜDER , derneğin isminde “TÜRK”,“TÜRKİYE” ibareleri kullanma hakkı elde ettiğinde; ayrıca tüzük değişikliği için Genel Kurul toplantısı yapılmaksızın Yönetim Kurulu Kararı ile bu tüzükteki Madde1.01,Madde 1.02 ve Madde 1.03 yeniden düzenlenir ve yasal bildirimleri yapılır."
+    },
+    {
+     "no": "1.05",
+     "metin": "DERNEĞİN AMBLEMİ; Dernek ambleminin tescili Yönetim Kurulu tarafından yaptırılır. Dernek amblemi Dernek Asıl üyeleri tarafından izin alınmaksızın her türlü ortamda kullanılabilir. Dernek Asıl üyeleri dışında Dernek ambleminin kullanımı Yönetim Kurulu kararı ile olur."
+    }
+   ]
+  },
+  {
+   "no": "2",
+   "baslik": "TÜMAKÜDER’in MERKEZİ",
+   "maddeler": [
+    {
+     "no": "2.01",
+     "metin": "TÜMAKÜDER’in Merkezi; İstanbul dadır."
+    },
+    {
+     "no": "2.02",
+     "metin": "TÜMAKÜDER, bu tüzükte belirtilen amaçlarına ve ilgili yasa ve yönetmeliklere uygun olarak ;"
+    },
+    {
+     "no": "2.02.1",
+     "metin": "Yurtiçi veya yurtdışı temsilcilik açabilir,uluslararası faaliyette veya işbirliğinde bulunabilir,"
+    },
+    {
+     "no": "2.02.2",
+     "metin": "Yurt içinde kurulmuş başka derneklerle birleşebilir veya yurt içinde kurulmuş başka derneklerle üst birlikler kurabilir yada kurulmuş üstbirliklere katılabilir."
+    },
+    {
+     "no": "2.02.3",
+     "metin": "Yurt dışında dernek veya üst birlikler kurabilir veya yurt dışında kurulmuş dernek veya üst birliklere katılabilir."
+    }
+   ]
+  },
+  {
+   "no": "3",
+   "baslik": "AKÜ ve AKÜ SEKTÖRÜNÜN TARİFİ",
+   "maddeler": [
+    {
+     "no": "3.01",
+     "metin": "Bu tüzüğün kapsamı içerisinde AKÜ ve AKÜ SEKTÖRÜ aşağıdaki gibi tarif edilmiştir;"
+    },
+    {
+     "no": "3.02",
+     "metin": "AKÜ: Üretim teknolojisi ve bileşenleri ne olursa olsun, Kimyasal etkileşim yoluyla Elektrik enerjisi sağlayan ve boşaldığında yeniden doldurulabilen yada kesintisiz olarak elektrik enerjisi sağlayabilen, taşınabilir cihazlardır.Yakıt hücreleri ve Foto-voltaik akülerde bu kapsamda mütalaa edilir."
+    },
+    {
+     "no": "3.03",
+     "metin": "AKÜ SEKTÖRÜ ; AKÜ ile ilgili olarak aşağıdaki döngü içinde yer alan tüm özel ve tüzel kişilerdir.Konuya taraf olan veya bu konuda araştırma ve eğitim görevi yürüten tüm resmi, yarı resmi ve özel kuruluşlar da bu kapsam içerisinde mütalaa edilir."
+    }
+   ]
+  },
+  {
+   "no": "4",
+   "baslik": "TÜMAKÜDER’in AMACI",
+   "maddeler": [
+    {
+     "no": "4.01",
+     "metin": "AKÜ SEKTÖRÜ içinde herhangi bir şekilde yer alan; tüm kişi ve kuruluşları bir çatı altında etkin bir şekilde toplamak, Kar amacı gütmeden; AKÜ SEKTÖRÜ nün gelişmesi ve yükseltilmesi için çalışmak,Sektörün ihtiyaçlarının tespiti ve çözümlerinin tarifi çalışmalarını yapmak, bu çözümlerin uygulamaya geçirilmesi için gereken işbirliğini sağlamaktır."
+    },
+    {
+     "no": "4.02",
+     "metin": "En yakın amaç olarak ta :Atık Akü’lerin çevreyle uyumlu yönetiminin sağlanması ve ekolojik dengenin bozulmasını önlemek için atık AKÜ toplanmasına, geri kazanılmasına, bertarafına dair yükümlülüklerin yerine getirilmesine yönelik faaliyetlerde bulunmaktır."
+    }
+   ]
+  },
+  {
+   "no": "5",
+   "baslik": "TÜMAKÜDER’in ÇALIŞMALARI",
+   "maddeler": [
+    {
+     "no": "5.01",
+     "metin": "TÜMAKÜDER’in öncelikli amacı; AKÜ atıkları ile ilgili olarak, çevreyi geliştirmek, çevre sağlığını korumak ve çevre kirlenmesini önlemek, Türkiye’de bu ürünlerin alıcı ortama olan etkilerini asgariye indirebilmek amacıyla, atık akülerin toplanmasında, taşınmasında, geri kazanımında, bertaraf edilmelerinde etkin rol oynamak ve bu amaçla kurulacak sisteme katkıda bulunmak gayesini taşır."
+    },
+    {
+     "no": "5.02",
+     "metin": "TÜMAKÜDER, amaçları doğrultusunda aşağıdaki çalışmaları yapar;"
+    },
+    {
+     "no": "5.02.1",
+     "metin": "Ülkemizde AKÜ SEKTÖRÜ içinde yer alan tüm işkollarını birleştirerek, AKÜ SEKTÖRÜ nün temsil edecek bir üst kuruluşu gerçekleşmesi için çalışmak, bu üst kuruluşa üye olmak."
+    },
+    {
+     "no": "5.02.2",
+     "metin": "Üyelerin tanışmalarını, maddi ve manevi dayanışmalarını sağlamak, teknik ve kültürel bilgilerini arttırmak."
+    },
+    {
+     "no": "5.02.3",
+     "metin": "Üyelerinin yasalar karşısındaki yükümlülüklerini yerine getirmelerini sağlamaya yardımcı olmak. Bu konuda üyelerine destek sağlamak,kamu kuruluşlarına karşı üyelerini temsil etmek."
+    },
+    {
+     "no": "5.02.4",
+     "metin": "Yurt dışında ve uluslararası alanda Türkiye’nin ticari ve sınai kuruluşlarının rekabet gücünü artırıcı uyarıcı ve yol gösterici çalışmalarda bulunmak."
+    },
+    {
+     "no": "5.02.5",
+     "metin": "Amaçları doğrultusunda bilimsel araştırmalar yapmak, yapılmakta olan araştırmaları desteklemek, araştırmacılar arasında iletişimi sağlayarak bilimsel çalışmaların etkinliğini artırmak."
+    },
+    {
+     "no": "5.02.6",
+     "metin": "AKÜ SEKTÖRÜ nü etkileyecek nitelikteki siyasal gelişmeleri, yasama çalışmalarını ve hükümet programlarını izlemek, yapılacak yasal düzenlemeler sırasında, yetkili kurumlara bilgi, görüş ve destek sağlamak,her türlü gelişme ve mevzuat değişikliklerinden üyelerine bilgi ve düzenlemelere uyulması için gereken desteği sağlamak."
+    },
+    {
+     "no": "5.02.7",
+     "metin": "Üyelerini, AKÜ SEKTÖRÜ’nü, devletin yasama ve yürütme organları, bağlı müessese ve kuruluşları ve Kamu Oyunu aydınlatıcı ve bilgilendirici eğitim, tanıtım toplantıları, duyurular ,yayınlar yapmak."
+    },
+    {
+     "no": "5.02.8",
+     "metin": "Ulusal ve uluslararası bazda meslektaşları ve diğer ilgili meslek teşekkülleriyle gerekli seviyelerde iletişim kurmak, bir araya gelmek. Birlikler oluşturmak ve, veya mevcut Birliklere üye olmak. Yapılacak toplantılara üyelerini temsilen katılmak. İlgili yetkili makamlara bildirimde bulunmak kaydı ile yabancı ülkelerdeki dernek veya kuruluşların üyelerini Türkiye’ye davet etmek yada yabancı dernek veya kuruluşların davetlerine uyarak üyelerini yurtdışına göndermek."
+    },
+    {
+     "no": "5.02.9",
+     "metin": "AKÜ SEKTÖRÜ nün doğru bir şekilde gelişimi için Gümrük İdareleri, Gümrük Müsteşarlığı, Dış Ticaret Müsteşarlığı,Türk Standartları Enstitüsü, Sanayi ve Ticaret Bakanlığı gibi ilgili tüm kamu kurum ve kuruluşları ile işbirliği yapmak."
+    },
+    {
+     "no": "5.02.10",
+     "metin": "Amaçlarını gerçekleştirmek için ortaklıklar, vakıflar ve yardımlaşma sandıkları kurmak, ortak girişimlerde bulunmak, mevcut ve kurulacak kuruluşlara iştirak etmek, iştirakleri devir ve ferağ etmek, konusu ile plilgili yada amaçlarına katkıda bulunacak TÜMAKÜDER’e bağlı iktisadi işletmeler açmak ve işletmek. Kurulacak iktisadi işletme aracılığı ile; konusu ile ilgili her türlü danışmanlık hizmeti vermek."
+    },
+    {
+     "no": "5.02.11",
+     "metin": "Amaçlarını gerçekleştirmek için taşınır ve taşınmazları, menkul kıymetleri, iştirak paylarını, taşıtları, fikri hakları, sınai mülkiyet haklarını iktisap etmek, devir ve ferağ etmek, kiraya vermek, kiralamak, ayni ve şahsi her türlü işlem ve tasarruflarda bulunmak, her türlü inşaatı yaptırmak. Her türlü bağış, yardım ve ivazsız kazandırmaları kabul etmek."
+    },
+    {
+     "no": "5.02.12",
+     "metin": "Amaçlarını ile ilgili olarak ipotek, rehin, kefalet, garanti ve diğer teminatları almak ve vermek."
+    },
+    {
+     "no": "5.02.13",
+     "metin": "Amaçlarını gerçekleştirmek için gereken ve yönetim kurulunca gerekli görülen diğer iş, işlem, tasarruf ve hizmetleri yapmak."
+    },
+    {
+     "no": "5.03",
+     "metin": "TÜMAKÜDER siyasetle uğraşamaz."
+    }
+   ]
+  },
+  {
+   "no": "6",
+   "baslik": "TÜMAKÜDER ÜYELİĞİ",
+   "maddeler": [
+    {
+     "no": "6.01",
+     "metin": "TÜMAKÜDER’ in ASIL ÜYE, FAHRİ ÜYE ve ŞEREF ÜYESİ olmak üzere üç çeşit üyesi vardır."
+    },
+    {
+     "no": "6.02",
+     "metin": "Genel Hususlar;"
+    },
+    {
+     "no": "6.02.1",
+     "metin": "Bir kişi, aynı anda, ASIL ve FAHRİ ÜYE sıfatlarından sadece birine sahip olabilir;"
+    },
+    {
+     "no": "6.02.2",
+     "metin": "Üyelik türüne bakılmaksızın, hiçbir üye, TÜMAKÜDER tarafından kabul edilmiş olan Etik Kuralları’na uygun olmayan, bir çalışma yapamaz veya beyanda bulunamaz."
+    },
+    {
+     "no": "6.02.3",
+     "metin": "Herhangi bir üyelik türünden, bir diğerine, kendiliğinden geçiş söz konusu olmayıp, her üyelik türü kendi koşullarına bağlı olarak başvuruyu ve kabulü gerektirir."
+    },
+    {
+     "no": "6.02.4",
+     "metin": "Üyelik türü ne olursa olsun, bir üyenin, koşullarında üyelik türünü etkileyecek veya değişmesine neden olabilecek bir değişiklik olduğunda, üye, bu değişikliğin gerçekleşme tarihinden en fazla 1 (bir) ay içinde, durumu yazılı olarak Yönetim Kurulu’na bildirmekle yükümlüdür."
+    },
+    {
+     "no": "6.02.5",
+     "metin": "Üyelik başvurularını Yönetim Kurulu değerlendirir. Başvuru sahibinin ya da herhangi bir dernek üyesinin Yönetim Kurulu’nun kararına itirazı durumunda konu Genel Kurul’da görüşülür. Genel Kurul’un üyeliğe kabul ya da üyelikten çıkarma konusundaki kararı kesindir."
+    },
+    {
+     "no": "6.02.6",
+     "metin": "Dernekler Kanunu’na göre üye olmaları yasaklananlar, ödentisini ödememe nedeni dışında diğer nedenlerle üyelikten kesin olarak çıkarılmış olanlar ve özel kanunlarında aksine hüküm bulunmamak koşulu ile Dernekler Kanunu’nun ilgili maddesi uyarınca bağlı bulundukları kuruluşlardan izin alamayanlar TÜMAKÜDER &#8216;e üye olamazlar."
+    },
+    {
+     "no": "6.02.7",
+     "metin": "Üye olacakların 5253 sayılı Dernekler Kanununun aradığı şartları haiz olması şarttır."
+    },
+    {
+     "no": "6.02.8",
+     "metin": "Üyelik başvurusu, TÜMAKÜDER yönetim kurulunca en çok 30 gün içinde karara bağlanır ve sonuç yazılı olarak başvuru sahibine bildirilir. Başvurusu kabul edilen üye bu amaçla tutulacak deftere kaydedilir."
+    },
+    {
+     "no": "6.03",
+     "metin": "ASIL ÜYELİK; Yukarıda belirtilen şartlara ek olarak aşağıdaki şartların tamamına uyanlar ASIL ÜYE olabilirler;"
+    },
+    {
+     "no": "6.03.1",
+     "metin": "Türkiye’nin herhangi bir yerinde AKÜ SEKTÖRÜ tarifi içinde üretim veya ithalat ile iştigal eden yerli ve yabancı sermayeli tüzel kişiler."
+    },
+    {
+     "no": "6.03.2",
+     "metin": "Birinci olağan genel kurul tarihinden beri dernek üyesi olup, aidat borcu bulunmayan iki üye tarafından ASIL ÜYE olarak önerilenler ."
+    },
+    {
+     "no": "6.03.3",
+     "metin": "Yönetim Kurulu tarafından belirlenen ödentileri ödemeyi kabul edenler,"
+    },
+    {
+     "no": "6.03.4",
+     "metin": "Türk vatandaşı olanlar"
+    },
+    {
+     "no": "6.03.5",
+     "metin": "ASIL ÜYE olmak istediğine ilişkin yazılı başvuruda bulunanlar"
+    },
+    {
+     "no": "6.03.6",
+     "metin": "Sorumluluk üstlendiği firmasını temsil eden ve firmasının TÜMAKÜDER hükümlerine uyacağını taahhüt edenler"
+    },
+    {
+     "no": "6.03.7",
+     "metin": "Kurucu üyelerin iştigal konusu, Madde 6.03.1’de belirtilenden farklı olsa bile üyelikleri devam eder."
+    },
+    {
+     "no": "6.04",
+     "metin": "ASIL ÜYE’lerin hakları,"
+    },
+    {
+     "no": "6.04.1",
+     "metin": "Seçme ve seçilme hakkına sahiptir."
+    },
+    {
+     "no": "6.04.2",
+     "metin": "Tüm hak ve yetkilere sahip olarak TÜMAKÜDER &#8216;in her türlü organında görev alabilir ve etkinliğinden yararlanabilir."
+    },
+    {
+     "no": "6.05",
+     "metin": "ŞEREF ÜYESİ’nin tanımı ve hakları;"
+    },
+    {
+     "no": "6.05.1",
+     "metin": "Şeref Üyeliği bir paye olup, kişinin başvurusuna açık değildir TÜMAKÜDER’ e , Ulusumuza ve Ülkemize, maddi ve manevi fayda ve hizmetleri görülen seçkin kişilere, Yönetim Kurulunun teklifi ve Genel Kurulun kararı ile ŞEREF ÜYESİ sıfatı verilebilir."
+    },
+    {
+     "no": "6.05.2",
+     "metin": "ŞEREF ÜYESİ olan kişinin, aynı zamanda başka bir üyelik türüne de sahip olması diğer üyeliğinin durumunu değiştirmez, her iki üyeliğe de sahip olabilir."
+    },
+    {
+     "no": "6.05.3",
+     "metin": "Yönetim Kurulu’nun belirleyeceği çalışma ve etkinliklere katılabilir,"
+    },
+    {
+     "no": "6.05.4",
+     "metin": "Seçme, seçilme ve oy kullanma hakkı olmaksızın, Genel Kurul’a katılabilir, söz alarak, görüş bildirebilir,"
+    },
+    {
+     "no": "6.05.5",
+     "metin": "Yönetim Kurulu’nun yöneltebileceği görevleri,uygun görürse,yerine getirir."
+    },
+    {
+     "no": "6.05.6",
+     "metin": "ŞEREF ÜYESİ ‘nden ödenti alınmaz."
+    },
+    {
+     "no": "6.06",
+     "metin": "FAHRİ ÜYE’liğin tanımı ve hakları;"
+    },
+    {
+     "no": "6.06.1",
+     "metin": "AKÜ SEKTÖRÜ içinde Atık Akümülatör Toplama, Taşıma, Geri Dönüşüm faaliyeti gösteren veya AKÜ SEKTÖRÜ’ne sigorta, eğitim, gümrükleme, danışmanlık, finans vb. hizmet veren yerli ve yabancı sermayeli tüzel kişiler Fahri üye olmak üzere baş vurabilir."
+    },
+    {
+     "no": "6.06.2",
+     "metin": "FAHRİ ÜYE’lik için aşağıdaki şartlar gereklidir;"
+    },
+    {
+     "no": "6.06.2.1",
+     "metin": "İki kurucu üye tarafından üyeliğe önerilmek,"
+    },
+    {
+     "no": "6.06.2.2",
+     "metin": "Yönetim Kurulu tarafından belirlenen ödentileri ödemeyi kabul etmek."
+    },
+    {
+     "no": "6.06.2.3",
+     "metin": "FAHRİ ÜYE olmak istediğine ilişkin yazılı başvuruda bulunmak"
+    },
+    {
+     "no": "6.06.2.4",
+     "metin": "Yönetim Kurulu’nca FAHRİ ÜYE &#8216;liğe kabul edilmek"
+    },
+    {
+     "no": "6.06.2.5",
+     "metin": "TÜMAKÜDER tüzüğüne ve Etik Kurallara uyacağını taahhüt etmek"
+    }
+   ]
+  },
+  {
+   "no": "7",
+   "baslik": "ÜYELİKTEN ÇIKMA",
+   "maddeler": [
+    {
+     "no": "7.01",
+     "metin": "Her üye yazılı olarak bildirmek kaydıyla TÜMAKÜDER den çıkma hakkına sahiptir. Çıkma bildiriminde bulunan üyenin birikmiş aidat borçlarını ödemesi gereklidir."
+    }
+   ]
+  },
+  {
+   "no": "8",
+   "baslik": "ÜYELİĞİN SONA ERMESİ",
+   "maddeler": [
+    {
+     "no": "8.01",
+     "metin": "Aşağıdaki hallerde üyelik kaydı yönetim kurulunca silinir:"
+    },
+    {
+     "no": "8.01.1",
+     "metin": "Aidat borcunu ödemeyen ve yönetim kurulunun yazılı talebine rağmen borçlarını verilen süre içinde ödemeyenlerin üyelikleri"
+    },
+    {
+     "no": "8.01.2",
+     "metin": "Tüzüğe, Etik kurallar’a ve çalışmalara uymadığı belirlenenlerin üyelikleri"
+    },
+    {
+     "no": "8.01.3",
+     "metin": "Derneklere üye olmak hakkını yasal olarak sürekli veya süreli olarak kaybedenlerin üyelikleri"
+    },
+    {
+     "no": "8.02",
+     "metin": "“Madde 8.01.1” bendine göre TÜMAKÜDERden çıkarılanların birikmiş aidatlarını ödemeleri halinde, yönetim kurulu kararı ile tekrar üyeliğe kayıtları yapılabilir."
+    },
+    {
+     "no": "8.03",
+     "metin": "Üyeliğe son verme kararı; üyeye, Yönetim Kurulu tarafından tebliğ edilir. Üye, tebliğ tarihinden itibaren 15 gün içinde yönetim kurulu kanalı ile genel kurula itiraz edebilir. Bu takdirde nihai karar ilk genel kurul toplantısında alınır. Üyeliği sona erdirilme kararı verilmiş olan üye, Genel kurul toplantısında kendini savunmak hakkına sahiptir."
+    }
+   ]
+  },
+  {
+   "no": "9",
+   "baslik": "TÜMAKÜDER’in ORGANLARI",
+   "maddeler": [
+    {
+     "no": "9.01",
+     "metin": "TÜMAKÜDER’in aşağıdaki organları vardır:"
+    },
+    {
+     "no": "9.01.1",
+     "metin": "Genel Kurul,"
+    },
+    {
+     "no": "9.01.2",
+     "metin": "Yönetim Kurulu,"
+    },
+    {
+     "no": "9.01.3",
+     "metin": "Denetleme Kurulu,"
+    },
+    {
+     "no": "9.02",
+     "metin": "TÜMAKÜDER, gerekli gördüğü takdirde başka organlar da kurabilir. Ancak, bu organlara genel kurul ve denetleme kurulunun görev, yetki ve sorumlulukları devredilemez."
+    },
+    {
+     "no": "9.03",
+     "metin": "GENEL KURUL"
+    },
+    {
+     "no": "9.03.1",
+     "metin": "Genel kurul asli üyelerden kurulur. Madde 9.03.2 3 yılda bir kasım ayında Yönetim Kurulunun çağrısı üzerine toplanır."
+    },
+    {
+     "no": "9.03.3",
+     "metin": "Yönetim ve denetleme kurullarının gerekli gördüğü hallerde yahut TÜMAKÜDER üyelerinden 1/5’inin yazılı istemi üzerine genel kurul olağanüstü toplanır."
+    },
+    {
+     "no": "9.03.4",
+     "metin": "Genel kurul toplantıya yönetim kurulunca çağrılır."
+    },
+    {
+     "no": "9.03.5",
+     "metin": "Denetleme kurulunun talebi veya TÜMAKÜDER üyelerinin 1/5’inin yazılı isteği üzerine yönetim kurulu genel kurulu bir ay içinde toplantıya çağırmaz ise, üyelerden birinin müracaatı üzerine mahalli sulh hukuk hakimi TÜMAKÜDER üyeleri arasından üç kişilik bir heyeti, genel kurulu toplantıya çağırmakla görevlendirir."
+    },
+    {
+     "no": "9.03.6",
+     "metin": "TÜMAKÜDER’e aidat borcu olan üyeler, genel kurul toplantılarına katılamaz ve oy kullanamazlar."
+    },
+    {
+     "no": "9.03.7",
+     "metin": "ÇAĞRI USULÜ"
+    },
+    {
+     "no": "9.03.7.1",
+     "metin": "Yönetim kurulu, TÜMAKÜDER tüzüğüne göre genel kurula katılmak hakkı bulunan üyelerin listesini düzenler. Genel kurul, yönetim kurulunca en az 15 gün önceden toplantıya çağrılır. Ayrıca adresini TÜMAKÜDER’e bildirmiş üyelere genel kurul toplantısının günü, saati, yeri ve gündemi iadeli taahhütlü posta ile veya elden imza karşılığı toplantıdan en az 15 gün önceden bildirilir. Bu amaçla toplantının günü, saati, yeri ve gündemi üyelere bildirilir. Toplantıya çağrıda, çoğunluk sağlanamaması sebebiyle toplantı yapılamazsa, ikinci toplantının hangi gün yapılacağı da belirtilir. İlk toplantı günü ile ikinci toplantı arasında bırakılacak zaman bir haftadan az olamaz."
+    },
+    {
+     "no": "9.03.7.2",
+     "metin": "Toplantı başka bir sebeple geri bırakılırsa, bu durum, geri bırakma sebepleri de belirtilmek suretiyle üyelere duyurulur. İkinci toplantının geri bırakma tarihinden itibaren en geç iki ay içinde yapılması zorunludur."
+    },
+    {
+     "no": "9.03.7.3",
+     "metin": "Üyeler ikinci toplantıya, birinci fıkrada belirtilen esaslara göre yeniden çağrılır. Genel Kurul toplantısı bir defadan fazla geri bırakılamaz."
+    },
+    {
+     "no": "9.03.8",
+     "metin": "TOPLANTI YERİ"
+    },
+    {
+     "no": "9.03.8.1",
+     "metin": "Genel kurul toplantıları TÜMAKÜDER merkezinden başka bir yerde yapılamaz."
+    },
+    {
+     "no": "9.03.9",
+     "metin": "TOPLANTI VE KARAR YETER SAYISI"
+    },
+    {
+     "no": "9.03.9.1",
+     "metin": "Genel kurul, TÜMAKÜDER tüzüğüne göre genel kurula katılma hakkı bulunan üyelerin yarısından bir fazlasının katılmasıyla toplanır."
+    },
+    {
+     "no": "9.03.9.2",
+     "metin": "İlk toplantıda yeter sayı sağlanamazsa, ikinci toplantıda çoğunluk aranmaz. Ancak bu ikinci toplantıya katılan üye sayısı TÜMAKÜDER yönetim ve denetleme kurulları üye tam sayısı toplamının iki katından az olamaz."
+    },
+    {
+     "no": "9.03.9.3",
+     "metin": "Kararlar hazır bulunan üyelerin yarısından bir fazlasının oyları ile alınır. Her üyenin genel kurulda bir oy hakkı vardır. Tüzel kişinin üye olması halinde, yönetim kurulu başkanı veya temsille görevlendirilen kişi oy kullanır. Bu kişinin başkanlık veya temsil görevi sona erdiğinde, tüzel kişi adına oy kullanacak kimse yeniden belirlenir."
+    },
+    {
+     "no": "9.03.10",
+     "metin": "TOPLANTININ YAPILIŞ USULÜ"
+    },
+    {
+     "no": "9.03.10.1",
+     "metin": "TÜMAKÜDER genel kurul toplantıları sonucu seçilen yönetim kurulu, denetim kurulu ile TÜMAKÜDER’in diğer organlarına seçilen asil ve yedek üyeler, genel kurulu izleyen 30 gün içinde mülki idare amirliğine bildirilir."
+    },
+    {
+     "no": "9.03.10.2",
+     "metin": "Genel kurula katılacak üyeler, yönetim kurulunca düzenlenen listedeki adları karşısına imza koyarak toplantı yerine girerler."
+    },
+    {
+     "no": "9.03.10.3",
+     "metin": "“Madde 9.03.9.1” de belirtilen tamsayı sağlanmışsa, durum bir tutanakla tespit edilir ve toplantı yönetim kurulu başkanı veya görevlendireceği yönetim kurulu üyelerinden biri tarafından açılır."
+    },
+    {
+     "no": "9.03.10.4",
+     "metin": "Açılıştan sonra, toplantıyı yönetmek üzere bir başkan ve yeteri kadar başkan vekili ile kâtip seçilir."
+    },
+    {
+     "no": "9.03.10.5",
+     "metin": "Toplantının yönetimi genel kurul başkanına aittir. Kâtipler toplantı tutanağını düzenler ve başkanla birlikte imzalarlar."
+    },
+    {
+     "no": "9.03.10.6",
+     "metin": "Toplantı sonunda, bütün tutanak ve belgeler yönetim kuruluna verilir."
+    },
+    {
+     "no": "9.03.11",
+     "metin": "TOPLANTIDA GÖRÜŞÜLECEK KONULAR"
+    },
+    {
+     "no": "9.03.11.1",
+     "metin": "Genel kurul toplantısında yalnız gündemde yer alan maddeler görüşülür. Ancak toplantıda hazır bulunan üyelerin en az onda biri tarafından görüşülmesi istenen konuların gündeme alınması zorunludur."
+    },
+    {
+     "no": "9.03.12",
+     "metin": "GENEL KURULUN GÖREV VE YETKİLERİ"
+    },
+    {
+     "no": "9.03.12.1",
+     "metin": "Aşağıda yazılı hususlar genel kurulca görüşülüp karara bağlanır."
+    },
+    {
+     "no": "9.03.12.2",
+     "metin": "TÜMAKÜDER organlarının seçilmesi,"
+    },
+    {
+     "no": "9.03.12.3",
+     "metin": "TÜMAKÜDER tüzüğünün değiştirilmesi, Yönetim Kurulu tarafından hazırlanan İç Tüzük ve Etik Kuralların onaylanması"
+    },
+    {
+     "no": "9.03.12.4",
+     "metin": "Yönetim ve denetleme kurulları raporlarının görüşülmesi, yönetim kurulunun ibra edilmesi,"
+    },
+    {
+     "no": "9.03.12.5",
+     "metin": "Başkaca hiçbir Denetim ve Yönetim Kurulu üyesine ödeme yapılmamak koşulu ile Yönetim Kurulu Başkanı veya Yönetim Kurulu murahhas üyesine ödenecek ücret ve ödeneğin tespit edilmesi konusunda Yönetim Kuruluna Yetki verilmesi,"
+    },
+    {
+     "no": "9.03.12.6",
+     "metin": "Yönetim ve Denetim Kurulu üyelerinin ve yönetim kurulunun dernek işleri için görevlendireceği kişilerin, dernekle ilgili olarak yapmış oldukları harcamalar dışında yolluk, ödenek ve tazminat ödenmez."
+    },
+    {
+     "no": "9.03.12.7",
+     "metin": "Üyelerin ödeyeceği yıllık veya aylık aidat, giriş aidatı ve diğer her türlü aidatın miktarlarının ve ödeme şeklinin tespit edilmesi konusunda, Yönetim Kuruluna önem ve görüş belirtilmesi,"
+    },
+    {
+     "no": "9.03.12.8",
+     "metin": "Yönetim kurulunca hazırlanan bütçenin görüşülüp aynen veya değiştirilerek kabul edilmesi,"
+    },
+    {
+     "no": "9.03.12.9",
+     "metin": "TÜMAKÜDER için gerekli taşınmaz malların satın alınması veya mevcut taşınmaz malların satılması hususunda yönetim kuruluna yetki verilmesi,"
+    },
+    {
+     "no": "9.03.12.10",
+     "metin": "TÜMAKÜDER’in Yurt içinde kurulmuş başka derneklerle birleşmesi veya yurt içinde kurulmuş başka derneklerle üst birlikler kurması yada kurulmuş üstbirliklere katılması kararını verilmesi,"
+    },
+    {
+     "no": "9.03.12.11",
+     "metin": "TÜMAKÜDER şubelerinin açılması ve şube kurucularına yetki verilmesi,"
+    },
+    {
+     "no": "9.03.12.12",
+     "metin": "TÜMAKÜDER’in uluslararası faaliyette bulunması, yurt dışındaki dernek, üst birlikler veya kuruluşlara üye olarak katılması veya ayrılması, Yurt dışında dernek veya üst birlikler kurma kararının verilmesi"
+    },
+    {
+     "no": "9.03.12.13",
+     "metin": "TÜMAKÜDER’in feshedilmesi,"
+    },
+    {
+     "no": "9.03.12.14",
+     "metin": "Üyeliğe kabul ve son verme kararına karşı yapılan itirazların karara bağlanması,"
+    },
+    {
+     "no": "9.03.12.15",
+     "metin": "Mevzuatta ve TÜMAKÜDER tüzüğünde genel kurulca yapılması belirtilen diğer görevlerin yerine getirilmesi,"
+    },
+    {
+     "no": "9.04",
+     "metin": "YÖNETİM KURULU OLUŞTURULMASI VE GÖREVLERİ"
+    },
+    {
+     "no": "9.04.1",
+     "metin": "YÖNETİM KURULU OLUŞTURULMASI"
+    },
+    {
+     "no": "9.04.1.1",
+     "metin": "Yönetim Kurulu, beş asıl ve beş yedek üye olmak üzere genel kurulca gizli oyla seçilir. Genel kurulca seçilen yönetim kurulu ilk toplantısında kendi arasında görev bölümü yaparak bir başkan, bir başkan vekili, iki üye, bir muhasip seçer."
+    },
+    {
+     "no": "9.04.1.2",
+     "metin": "Yönetim Kurulu, Başkan veya üyelerden herhangi birini, dernek faaliyetlerini yürütmek üzere murahhas üye olarak atar."
+    },
+    {
+     "no": "9.04.1.3",
+     "metin": "Yönetim kurulunun üye sayısı gerektikçe yeniden düzenlenebilir."
+    },
+    {
+     "no": "9.04.1.4",
+     "metin": "Yönetim kurulu ayda en az bir defa başkan veya başkan vekilinin daveti ile toplanır. Toplantı günü, saati ve gündem önceden kurul üyelerine bildirilir. Üyelerden en az üçünün yazılı istemlerini başkana iletmeleri halinde yönetim kurulunun toplantıya çağrılması zorunludur."
+    },
+    {
+     "no": "9.04.1.5",
+     "metin": "Yönetim kurulu üye tam sayısının salt çoğunluğu ile toplanır ve kararlar toplantıya katılan üyelerin çoğunluğu ile alınır."
+    },
+    {
+     "no": "9.04.1.6",
+     "metin": "Asıl üyeliklerde boşalma olduğu takdirde yedek üyelerin göreve çağrılması zorunludur."
+    },
+    {
+     "no": "9.04.2",
+     "metin": "YÖNETİM KURULUNUN GÖREVLERİ"
+    },
+    {
+     "no": "9.04.2.1",
+     "metin": "Türk yasaları ve bu tüzük hükümleri doğrultusunda gereken kararları almak, Genel Kurul kararlarını uygulamak,"
+    },
+    {
+     "no": "9.04.2.2",
+     "metin": "TÜMAKÜDER’i temsil etmek üzere Başkan veya üyelerden birini murahhas üye olarak atamak ve yetki vermek."
+    },
+    {
+     "no": "9.04.2.3",
+     "metin": "TÜMAKÜDER’in gelir ve gider hesaplarına ilişkin işlemleri yapmak ve gelecek döneme ait bütçeyi hazırlayarak genel kurula sunmak,"
+    },
+    {
+     "no": "9.04.2.4",
+     "metin": "Geçen çalışma dönemi çalışma programı ile bilanço ve gelir gider çizelgelerini hazırlamak,"
+    },
+    {
+     "no": "9.04.2.5",
+     "metin": "Genel kurulu olağan veya olağanüstü toplantıya çağırmak, genel kurul toplantı tarihini, saatini, yerini ve gündemini saptamak, üyelere ve ilçe kaymakamlığına duyurmak,"
+    },
+    {
+     "no": "9.04.2.6",
+     "metin": "Yönetim ve hizmet konuları doğrultusunda görev yapacak komiteler kurmak ve raporları hakkında gereken kararları almak,"
+    },
+    {
+     "no": "9.04.2.7",
+     "metin": "TÜMAKÜDER’e yararlı olabilecek kişi ve kuruluşlarla iş ve hizmet akitleri yapmak, feshetmek ve sona erdirmek,"
+    },
+    {
+     "no": "9.04.2.8",
+     "metin": "Ortaklık, iktisadi işletme, vakıf ve yardımlaşma sandığı kurulmasına yada kurulmuş ve kurulacaklara katılmaya karar vermek,"
+    },
+    {
+     "no": "9.04.2.9",
+     "metin": "TÜMAKÜDER ana tüzüğünün değiştirilmesi ile yönetmeliklerin hazırlanması ve değiştirilmesine ilişkin tasarılar hazırlamak,"
+    },
+    {
+     "no": "9.04.2.10",
+     "metin": "Genel kurulda alınan kararları üyelere ve ilgili yerlere bildirmek,"
+    },
+    {
+     "no": "9.04.2.11",
+     "metin": "Geçen çalışma dönemi sorumlusu yönetim kurulundan görevi ve bilanço gereği TÜMAKÜDER malvarlığını teslim almak ve aynı biçimde gelecek çalışma dönemi yönetim kuruluna teslim etmek,"
+    },
+    {
+     "no": "9.04.2.12",
+     "metin": "Genel kurulun verdiği yetkiye dayanarak taşınmaz mal almak, satmak, kiralamak, kiraya vermek, üzerinde TÜMAKÜDER lehine mükellefiyetler tesis etmek ve kaldırmak,"
+    },
+    {
+     "no": "9.04.2.13",
+     "metin": "Üyelerin yıllık veya aylık olarak ödeyecekleri aidat ile giriş aidatını ve diğer ödemeleri belirlemek,"
+    },
+    {
+     "no": "9.04.2.14",
+     "metin": "TÜMAKÜDER’e borçlu üyeleri, tayin edeceği elverişli süre içinde borcunu ödemeye yazılı olarak davet etmek ve sürenin bitiminde işbu tüzükte belirlenen şekilde tahsili için yasal yollara başvurmak, avukat tayin etmek, ve tahsiline imkan kalmayan alacakları tespit ederek terkini için genel kurula bildirmek,"
+    },
+    {
+     "no": "9.04.2.15",
+     "metin": "TÜMAKÜDER üyelerinin, tüzükte belirlenen hallerde üyeliklerine son vermek,"
+    },
+    {
+     "no": "9.04.2.16",
+     "metin": "TÜMAKÜDER’in feshi halinde bu hususu 5 gün içinde yazılı olarak en büyük mülki amire bildirmek,"
+    },
+    {
+     "no": "9.04.2.17",
+     "metin": "Üyeliği teklif edilenlerin kabul veya reddi hakkında karar vermek,"
+    },
+    {
+     "no": "9.04.2.18",
+     "metin": "TÜMAKÜDER faaliyetlerinin gerektirdiği iç tüzükleri yapmak,"
+    },
+    {
+     "no": "9.04.2.19",
+     "metin": "TÜMAKÜDER’in amacı ve faaliyet konusu doğrultusunda kamu kurum ve kuruluşlar nezdinde TÜMAKÜDER’i tanıtmak, faaliyetleri hakkında bilgilendirmek, mevzuat ve uygulamalar ile ilgili olarak TÜMAKÜDER’in görüşünün alınmasını sağlamak,"
+    },
+    {
+     "no": "9.04.2.20",
+     "metin": "TÜMAKÜDER tüzüğünün ve mevzuatın kendisine verdiği diğer işleri yapmak ve yetkileri kullanmak."
+    },
+    {
+     "no": "9.04.2.21",
+     "metin": "Yönetim Kurulu Başkanı veya Yönetim Kurulu murahhas üyesine ödenecek ücret ve ödeneği tespit etmek,"
+    },
+    {
+     "no": "9.05",
+     "metin": "DENETLEME KURULU TEŞKİLİ VE GÖREVLERİ"
+    },
+    {
+     "no": "9.05.1",
+     "metin": "TÜMAKÜDER, her türlü denetime açık olduğu gibi, iç denetim açısından denetleme kurulu aracılığı ile TÜMAKÜDER içi denetim görevini yerine getirmekle sorumlu bulunmaktadır."
+    },
+    {
+     "no": "9.05.2",
+     "metin": "Denetleme kurulu, üç asıl ve üç yedek üye olmak üzere genel kurulca seçilir,"
+    },
+    {
+     "no": "9.05.3",
+     "metin": "Denetleme kurulunun görev ve yetkileri:"
+    },
+    {
+     "no": "9.05.3.1",
+     "metin": "Genel kurul tarafından alınan kararların yönetim kurulunca uygulanıp uygulanmadığını, TÜMAKÜDER işlerinin mevzuat ve tüzük esaslarına yürütülüp yürütülmediğini genel kurula raporlamak,"
+    },
+    {
+     "no": "9.05.3.2",
+     "metin": "TÜMAKÜDER işleri, muameleleri ve hesapları hakkında genel kurula rapor sunmak,"
+    },
+    {
+     "no": "9.05.3.3",
+     "metin": "Gerektiğinde genel kurulu olağanüstü toplantıya çağırmak."
+    },
+    {
+     "no": "9.05.3.4",
+     "metin": "Denetleme kurulu üyeleri tek tek veya heyet halinde her zaman TÜMAKÜDER defterlerini tetkik edebilirler. Yönetim kurulu ve murahhas üye kendilerinden istenen belge, defter ve bilgileri denetleme kurulu üyelerinin tetkikine sunmakla sorumludurlar."
+    },
+    {
+     "no": "9.05.3.5",
+     "metin": "Denetleme kurulu, harcamaların bütçeye uygun yapılıp yapılmadığını, vesikaların geçerli bulunup bulunmadığını ve gelirlerin gerekli bir dikkatle toplanıp toplanmadığını denetler."
+    },
+    {
+     "no": "9.05.3.6",
+     "metin": "Denetleme Kurulu görevini, altı ayı geçmeyen aralıklarla yapar ve denetleme sonuçlarını bir rapor halinde yönetim kuruluna ve toplantılarda genel kurula sunar."
+    },
+    {
+     "no": "9.05.4",
+     "metin": "Denetleme kurulunun toplantı ve karar yeter sayısı ikidir."
+    },
+    {
+     "no": "9.06",
+     "metin": "ORGANLARA SEÇİLENLERİN İDAREYE BİLDİRİLMESİ"
+    },
+    {
+     "no": "9.06.1",
+     "metin": "Genel kurulca yapılan seçimi izleyen otuz gün içinde, yönetim kurulu başkanı tarafından; yönetim ve denetleme kurulları ile TÜMAKÜDER’in diğer organlarına seçilen asıl ve yedek gerçek kişilerin ve tüzel kişi üyelerin temsilcilerinin ad ve soyadları, baba adları, doğum yeri ve tarihleri, meslekleri ve ikametgâhları TÜMAKÜDER merkezinin bulunduğu yerin en büyük mülkî amirliğine yazı ile bildirilir."
+    }
+   ]
+  },
+  {
+   "no": "10",
+   "baslik": "TÜMAKÜDER’İN GELİRLERİ",
+   "maddeler": [
+    {
+     "no": "10.01",
+     "metin": "TÜMAKÜDER’in gelir kaynakları;"
+    },
+    {
+     "no": "10.01.1",
+     "metin": "Üye giriş ve yıllık aidatları,"
+    },
+    {
+     "no": "10.01.2",
+     "metin": "TÜMAKÜDER tarafından yapılan yayınlar, tertiplenen piyango, balo, eğlence, temsil, konser, spor yarışması ve konferans, alınacak reklam ve bunun gibi faaliyetlerden sağlanan gelirler,"
+    },
+    {
+     "no": "10.01.3",
+     "metin": "TÜMAKÜDER’in taşınır ve taşınmaz malları ile haklarının kiraya verilmesinden sağlanan gelirler ile taşınır değerler gelirleri,"
+    },
+    {
+     "no": "10.01.4",
+     "metin": "TÜMAKÜDER’e yapılacak bağış ve yardımlar,"
+    },
+    {
+     "no": "10.01.5",
+     "metin": "Yardım toplama hakkındaki mevzuat hükümlerine uygun olarak toplanacak bağış ve yardımlar,"
+    },
+    {
+     "no": "10.01.6",
+     "metin": "Ortaklıklar, iktisadi işletmeler ve yardımlaşma sandığından sağlanacak gelirler"
+    },
+    {
+     "no": "10.02",
+     "metin": "TÜMAKÜDER’in dış ülkelerdeki gerçek veya tüzelkişilerden veya diğer kuruluşlardan yardım alması İçişleri Bakanlığının izni ile olur."
+    }
+   ]
+  },
+  {
+   "no": "11",
+   "baslik": "DEFTER VE KAYITLAR",
+   "maddeler": [
+    {
+     "no": "11.01",
+     "metin": "TÜMAKÜDER aşağıda yazılı defterleri tutar:"
+    },
+    {
+     "no": "11.01.1",
+     "metin": "Üye kayıt defteri; TÜMAKÜDER’e girenlerin kimlikleri, giriş tarihleri, aylık veya yıllık aidatları bu deftere yazılır."
+    },
+    {
+     "no": "11.01.2",
+     "metin": "Karar defteri; Yönetim kurulunun kararları tarih ve numara sırasıyla bu deftere yazılır ve kararların altı başkan ve üyelerce imzalanır."
+    },
+    {
+     "no": "11.01.3",
+     "metin": "Gelen ve giden evrak defteri; gelen ve giden evrak, tarih ve numarası ile bu deftere kaydolunur. Gelen evrakın asılları ve giden evrakın kopyaları dosyalarında saklanır."
+    },
+    {
+     "no": "11.01.4",
+     "metin": "Gelir ve gider defteri; TÜMAKÜDER namına alınan bütün paraların alındıkları ve harcanan paraların da verildikleri yerler, açık ve düzenli olarak bu defterde gösterilir."
+    },
+    {
+     "no": "11.01.5",
+     "metin": "Bütçe, kesin hesap ve bilanço defteri; bütçe, kesin hesap ve bilançolar bu deftere işlenir."
+    },
+    {
+     "no": "11.01.6",
+     "metin": "Demirbaş defteri; TÜMAKÜDER’e ait demirbaş eşyalar bu deftere işlenir."
+    },
+    {
+     "no": "11.02",
+     "metin": "Bu maddede sayılan defterlerin noterden tasdikli olması zorunludur."
+    }
+   ]
+  },
+  {
+   "no": "12",
+   "baslik": "GELİR VE GİDERLERDE USUL",
+   "maddeler": [
+    {
+     "no": "12.01",
+     "metin": "TÜMAKÜDER’in nakdi gelirlerinin tamamı banka aracılığıyla toplanır ve giderler harcama belgesi ile yapılır. Bu belgelerin saklama süresi, özel kanunlarda gösterilen daha uzun süreyle ilişkin hükümler saklı kalmak üzere, beş yıldır. Banka tarafından düzenlenen dekont veya hesap özeti gibi belgeler alındı belgesi yerine geçer."
+    },
+    {
+     "no": "12.02",
+     "metin": "Mahallinin en büyük mülki amirliği, istediği takdirde banka dekontlarını ve hesap ekstrelerini bir tutanağa bağlayarak onaylar."
+    },
+    {
+     "no": "12.03",
+     "metin": "Banka dekontu veya hesap ekstresi dışında alındı belgeleri kullanılmaz. 2012 yılı öncesinde bastırılmış alındı belgeleri, kullanılmaksızın yasal süre boyunca saklanır."
+    },
+    {
+     "no": "12.04",
+     "metin": "TÜMAKÜDER adına gazete, dergi ve öteki basılı eserler vererek bunlar karşılığında para veya başkaca yardım toplamak yasaktır."
+    }
+   ]
+  },
+  {
+   "no": "13",
+   "baslik": "TAŞINMAZ MAL EDİNME",
+   "maddeler": [
+    {
+     "no": "13.01",
+     "metin": "TÜMAKÜDER, ikametgâhı ile amaç ve faaliyetleri için gerekli olanlardan başka taşınmaz mala sahip olamaz."
+    },
+    {
+     "no": "13.02",
+     "metin": "TÜMAKÜDER’ce satın alınan veya bağış ve vasiyet yoluyla TÜMAKÜDER’e intikal eden taşınmaz mallar. TÜMAKÜDER adına tapuya tescilinden itibaren otuz gün içinde EK-2 26’da gösterilen Taşınmaz Mal bildirimi ile mülki idari amirliğine bildirilir."
+    }
+   ]
+  },
+  {
+   "no": "14",
+   "baslik": "TÜMAKÜDER’İN İÇ DENETİMİ",
+   "maddeler": [
+    {
+     "no": "14.01",
+     "metin": "Derneğin iç denetimi Dernekler Tüzüğüne göre denetleme kurulu tarafından gerçekleştirilir. Ancak TÜMAKÜDER tüzüğünde ‘Dernek tüzüğüne göre’ hükmü getirilerek belirtilmiş olmakla birlikte yeteri kadar açıklık bulunmayan durumlarda bu eksikliği tamamlama, üyelerle TÜMAKÜDER organlarını tüm TÜMAKÜDER faaliyetleri ile işlemlerinde yol göstermek ve yardımcı olmak amacıyla tek veya ayrı ayrı birim halinde genel kurulun onayından geçirilmek suretiyle yürürlüğe konulacak yönetmelikler çıkarılabilir."
+    }
+   ]
+  },
+  {
+   "no": "15",
+   "baslik": "TÜZÜK DEĞİŞİKLİĞİ",
+   "maddeler": [
+    {
+     "no": "15.01",
+     "metin": "Tüzük hükümleri olağan veya olağanüstü toplantı gündemine konulan ve en geç 10 gün önce üyelere yazılı olarak bildirme koşulu ile genel kurulca değiştirilebilir. Değişiklikler, toplantıya katılan mevcut üye sayısının 2/3’ünün oyu ile sağlanır."
+    }
+   ]
+  },
+  {
+   "no": "16",
+   "baslik": "TÜZEL KİŞİLİĞİN SONA ERMESİ",
+   "maddeler": [
+    {
+     "no": "16.01",
+     "metin": "TÜMAKÜDER genel kurulu her zaman TÜMAKÜDER’in feshine karar verebilir. Genel kurulun TÜMAKÜDER’in feshine karar verebilmesi için, genel kurula katılma hakkına sahip bulunan TÜMAKÜDER üyelerinin en az üçte ikisinin toplantıda hazır bulunması şarttır. İlk toplantıda bu çoğunluğun sağlanamaması halinde, üyeler “Madde 9.03.7”ye göre ikinci toplantıya çağrılır. İkinci toplantıya katılan üye sayısı, yönetim ve denetim kurulu üye tam sayısının iki katından az olmamak zorundadır. Feshe ilişkin kararın, toplantıda hazır bulunan üyelerinin üçte iki çoğunluğu ile verilmesi zorunludur."
+    },
+    {
+     "no": "16.02",
+     "metin": "TÜMAKÜDER’in feshi yönetim kurulu tarafından beş gün içinde mahallin en büyük mülki amirliğine yazıyla bildirilir."
+    },
+    {
+     "no": "16.03",
+     "metin": "TÜMAKÜDER fesih olduktan sonra TÜMAKÜDER’in bütün para ve malları benzer amaçlı başka bir teşekküle veya vakfa devir olunur."
+    },
+    {
+     "no": "16.04",
+     "metin": "Bu tüzükte açık hüküm bulunmayan durumlarda 5253 sayılı Dernekler Kanunu ile Türk Medeni Kanununun ilgili hükümleri uygulanır."
+    },
+    {
+     "no": "16.05",
+     "metin": "TÜMAKÜDER, 5253 sayılı Kanununun 30. maddesinde gösterilen yasak faaliyetlerde bulunamaz."
+    }
+   ]
+  },
+  {
+   "no": "17",
+   "baslik": "YURT DIŞINDAN YARDIM ALINMASI",
+   "maddeler": [
+    {
+     "no": "17.01",
+     "metin": "Mülki idare amirliğine önceden bildirimde bulunmak şartıyla yurt dışındaki kişi, kurum ve kuruluşlardan ayni ve nakdi yardım alabilirler. Bildirim şekli ve içeriği ilgili yönetmeliklere uygun olmak şartıyla düzenlenir. Nakdi yardımların bankalar aracılığı ile alınması zorunludur."
+    }
+   ]
+  },
+  {
+   "no": "18",
+   "baslik": "DERNEĞİN BORÇLANMA USULÜ:",
+   "maddeler": [
+    {
+     "no": "",
+     "metin": "Dernek Genel kurul kararı ile borçlanma yapar ancak, Yönetim Kurulu"
+    },
+    {
+     "no": "",
+     "metin": "Dernek"
+    },
+    {
+     "no": "",
+     "metin": "Genel Kurulunun verdiği harcama yetkisini taksitler halinde ifa etmek için karar alabilir."
+    }
+   ]
+  },
+  {
+   "no": "19",
+   "baslik": "AİDATLAR VE AİDAT ÖDEME",
+   "maddeler": [
+    {
+     "no": "19.01",
+     "metin": "GİRİŞ AİDATI; Yönetim Kurulu tarafından, Sektörün yapısına ve mevzuattaki gelişmelere bağlı olarak gerek duyulduğu anda içinde bulunulan yıl için uygulanmak üzere yeniden belirlenir. Yönetim Kurulu tarafından belirlenen Giriş aidatı üyelik başvurusu sırasında ödenir."
+    },
+    {
+     "no": "19.02",
+     "metin": "AYLIK AİDAT: Yönetim Kurulu tarafından, Sektörün yapısına ve mevzuattaki gelişmelere bağlı olarak yılda iki kez yeniden belirlenir. Aylık aidat ilgili ayın ilk haftası içinde ödenir."
+    },
+    {
+     "no": "19.03",
+     "metin": "Yönetim Kurulu Kararı ile üyelerden, giriş ve aylık aidatlar dışında ek ödeme talep edilebilir. Bu ek ödemelerin yıllık toplamı aylık aidat miktarının 4 katından fazla olamaz. Bu ek ödemeler Yönetim Kurulu tarafından duyurulduktan sonraki 30 gün içinde ödenir."
+    },
+    {
+     "no": "19.04",
+     "metin": "ÖDEME GECİKMELERİ: Dernek üyeleri yukarıda belirtilen tüm ödemeleri zamanında yapmakla mükelleftir. Ödenmesi gereken takvim ayı içinde yapılmayan ödemelere, Yönetim Kurulunun belirleyeceği ve aylık %5(yüzde beş)i geçmeyecek oranda gecikme cezası uygulanır ve Ödeme Yöntemi Yönetim Kurulunca belirlenir. Herhangi bir ödemeyi üç ay geciktiren üyenin dernek üyeliğine Yönetim Kurulu kararı ile son verilebilir"
+    },
+    {
+     "no": "19.05",
+     "metin": "YETKİ SÜRESİ: Bu tüzüğün 19.01, 19.02, 19.03, 19.04 maddelerinde Yönetim Kuruluna verilen yetki bir sonraki genel kurul toplantısına kadar geçerlidir."
+    }
+   ]
+  }
+ ]
+}

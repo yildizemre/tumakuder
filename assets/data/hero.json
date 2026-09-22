@@ -1,0 +1,29 @@
+{
+ "_aciklama": "Ana sayfa slaytları. Yeni slayt eklemek için: görseli assets/img içine koyun, buraya bir kayıt ekleyin, 'npm run gorsel' ve 'node build.mjs' çalıştırın. Başlıkta <em> ile sarılan kelimeler turuncu görünür.",
+ "slaytlar": [
+  {
+   "gorsel": "assets/img/slider1.png",
+   "etiket": "Çevre Bilinci",
+   "baslik": "Atık Akümülatörler <em>Doğaya Değil</em> Geri Kazanıma",
+   "metin": "TÜMAKÜDER; akü ithalatçı ve üreticilerinin APAK yönetmeliğinden doğan yükümlülüklerini yerine getirmesi için Türkiye genelinde toplama, taşıma ve geri kazanım sistemini kurar ve işletir.",
+   "btnYazi": "Bizi Tanıyın",
+   "btnBag": "kimdir.html"
+  },
+  {
+   "gorsel": "assets/img/slider2.png",
+   "etiket": "Depozito Sistemi",
+   "baslik": "Depozito Uygulaması <em>Artık Zorunlu</em>",
+   "metin": "Piyasaya sürülen akümülatörlerde depozito bedeli satış belgelerinde gösterilir, KDV matrahına dâhil edilir ve iade alınan akülerde geri ödenir. Tüm yükümlülükleri tek sayfada topladık.",
+   "btnYazi": "Sisteme Göz Atın",
+   "btnBag": "depozito-sistemi.html"
+  },
+  {
+   "gorsel": "assets/img/slider3.png",
+   "etiket": "Üyelik Avantajı",
+   "baslik": "Çevre Uyum Belgesi <em>Süreciniz</em> Bizimle",
+   "metin": "Üye firmalarımızın Çevre Uyum Onayı, TAREKS başvurusu, EÇBS bildirimleri ve kütle denge raporlarında yanındayız. 111 asil üye, 55 çözüm ortağı ile Türkiye'nin dört bir yanında.",
+   "btnYazi": "İthalat Rehberi",
+   "btnBag": "aku-ithalat.html"
+  }
+ ]
+}

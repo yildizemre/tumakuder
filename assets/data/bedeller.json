@@ -1,0 +1,24 @@
+{
+ "_aciklama": "Akümülatör GEKAP / depozito bedelleri. Tutarlar Resmî Gazete'de yayımlanan yıllık tebliğden alınarak buraya girilir. 'tutar' alanı boş (null) bırakılan satırlar sitede 'tebliğe bakınız' olarak gösterilir.",
+ "kaynak": {
+  "2024": { "belge": "assets/docs/20231229-6-1.pdf", "tebligNo": "2024/1", "resmiGazete": "29.12.2023 / 32414" },
+  "2023": { "belge": "assets/docs/2023-GekapBedelleri-.pdf", "tebligNo": "-", "resmiGazete": "-" }
+ },
+ "notlar": [
+  "Depozito bedelleri, GEKAP tutarları ile eşit değerlerde uygulanır.",
+  "Depozito bedeli satış faturasında ayrı kalem olarak gösterilir ve KDV matrahına dâhil edilir.",
+  "Tutarlar her yıl yeniden değerleme oranında artırılarak Bakanlıkça belirlenir."
+ ],
+ "yillar": {
+  "2024": [
+   { "kategori": "Kurşun asitli akümülatör", "birim": "adet", "tutar": null },
+   { "kategori": "Nikel kadmiyum akümülatör", "birim": "adet", "tutar": null },
+   { "kategori": "Diğer akümülatörler", "birim": "adet", "tutar": null }
+  ],
+  "2023": [
+   { "kategori": "Kurşun asitli akümülatör", "birim": "adet", "tutar": null },
+   { "kategori": "Nikel kadmiyum akümülatör", "birim": "adet", "tutar": null },
+   { "kategori": "Diğer akümülatörler", "birim": "adet", "tutar": null }
+  ]
+ }
+}

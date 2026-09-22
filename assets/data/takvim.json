@@ -1,0 +1,61 @@
+{
+ "not": "Tarihler her yıl tekrar eder. 'gun' ve 'ay' alanları (ay: 1-12) yıllık yükümlülükler içindir; 'tip' alanı yillik | ceyreklik | aylik olabilir.",
+ "yukumlulukler": [
+  {
+   "tip": "yillik",
+   "ay": 1,
+   "gun": 12,
+   "baslik": "ÇUB evrakları ve kütle denge raporu",
+   "aciklama": "Üye ÇUB dilekçesi ve Depozito Uygulama Formu (ikişer nüsha, kaşe-imzalı) ile bir önceki yıla ait kütle denge raporları TÜMAKÜDER'e ulaştırılır.",
+   "bag": "duyuru-cevre-uyum-2024.html"
+  },
+  {
+   "tip": "yillik",
+   "ay": 1,
+   "gun": 12,
+   "baslik": "TAREKS Çevre Uyum Ön İzin başvurusu",
+   "aciklama": "TAREKS üzerinden ürün grubu bazında Ek-2 (pil ithal edenler için ayrıca Ek-3) seçilerek başvuru yapılır ve Bakanlık onayına hazır hâle getirilir.",
+   "bag": "aku-ithalat.html"
+  },
+  {
+   "tip": "yillik",
+   "ay": 1,
+   "gun": 31,
+   "baslik": "Çevre Uyum Onaylarının sona ermesi",
+   "aciklama": "Üye firmaların mevcut Çevre Uyum Onayları bu tarihte sona erer; yenileme başvurusunun önceden tamamlanmış olması gerekir.",
+   "bag": "duyuru-cevre-uyum-2024.html"
+  },
+  {
+   "tip": "yillik",
+   "ay": 6,
+   "gun": 30,
+   "baslik": "Yıllık depozito faaliyet raporu",
+   "aciklama": "Bir önceki yıla ait depozito uygulamalarına ilişkin faaliyet raporu, Haziran ayı sonuna kadar Bakanlığa sunulur.",
+   "bag": "depozito-sistemi.html#yukumlulukler"
+  },
+  {
+   "tip": "ceyreklik",
+   "baslik": "GEKAP beyanı",
+   "aciklama": "Geri Kazanım Katılım Payı beyanı, Gelir İdaresi Başkanlığı sistemi üzerinden üçer aylık dönemler hâlinde verilir. Dönem son tarihlerini GİB beyan takviminden teyit ediniz.",
+   "bag": "mevzuat.html#gekap"
+  },
+  {
+   "tip": "aylik",
+   "baslik": "Kütle denge raporu bildirimi",
+   "aciklama": "Her ay düzenli olarak toplanan atık akümülatörleri gösteren kütle denge raporu, sözleşmeli firmaya bildirilir.",
+   "bag": "depozito-sistemi.html#gecici-depolama"
+  },
+  {
+   "tip": "surekli",
+   "baslik": "Geçici depolamada 90 gün sınırı",
+   "aciklama": "Geçici depolama alanlarında atık akümülatörler 90 günden fazla tutulamaz. Bu alanlar için Valilikten geçici depolama izni alınması zorunludur.",
+   "bag": "depozito-sistemi.html#gecici-depolama"
+  },
+  {
+   "tip": "surekli",
+   "baslik": "Bildirim belgelerinin saklanması",
+   "aciklama": "Depozito uygulamalarına ilişkin bildirimlere esas belgeler 10 yıl süre ile saklanır.",
+   "bag": "depozito-sistemi.html#yukumlulukler"
+  }
+ ]
+}
