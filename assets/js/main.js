@@ -116,7 +116,8 @@
         var t = setInterval(function () {
           n += adim;
           if (n >= hedef) { n = hedef; clearInterval(t); }
-          el.textContent = n.toLocaleString('tr-TR') + (el.getAttribute('data-suffix') || '');
+          // data-yil: yıllar binlik ayraçsız yazılır (2.005 değil 2005)
+          el.textContent = (el.hasAttribute('data-yil') ? String(n) : n.toLocaleString('tr-TR')) + (el.getAttribute('data-suffix') || '');
         }, 26);
         co.unobserve(el);
       });
