@@ -4,7 +4,7 @@
   {
    "gorsel": "assets/img/slider1.png",
    "etiket": "Çevre Bilinci",
-   "baslik": "Atık Akümülatörler <em>Doğaya Değil</em> Geri Kazanıma",
+   "baslik": "Atık Bataryalar <em>Doğaya Değil</em> Geri Kazanıma",
    "metin": "TÜMAKÜDER; akü ithalatçı ve üreticilerinin APAK yönetmeliğinden doğan yükümlülüklerini yerine getirmesi için Türkiye genelinde toplama, taşıma ve geri kazanım sistemini kurar ve işletir.",
    "btnYazi": "Bizi Tanıyın",
    "btnBag": "kimdir.html"
@@ -13,7 +13,7 @@
    "gorsel": "assets/img/slider2.png",
    "etiket": "Depozito Sistemi",
    "baslik": "Depozito Uygulaması <em>Artık Zorunlu</em>",
-   "metin": "Piyasaya sürülen akümülatörlerde depozito bedeli satış belgelerinde gösterilir, KDV matrahına dâhil edilir ve iade alınan akülerde geri ödenir. Tüm yükümlülükleri tek sayfada topladık.",
+   "metin": "Piyasaya sürülen bataryalarda depozito bedeli satış belgelerinde gösterilir, KDV matrahına dâhil edilir ve iade alınan akülerde geri ödenir. Tüm yükümlülükleri tek sayfada topladık.",
    "btnYazi": "Sisteme Göz Atın",
    "btnBag": "depozito-sistemi.html"
   },
