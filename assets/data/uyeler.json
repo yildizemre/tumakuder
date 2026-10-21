@@ -1,1088 +1,1109 @@
 {
- "asil": [
-  {
-   "kod": "971",
-   "firma": "ALIGN TECH TURKEY TIBBİ CİHAZLAR LTD. ŞTİ.",
-   "sehir": "İstanbul"
-  },
-  {
-   "kod": "68",
-   "firma": "ALOTO OTOM. ELEK. ELEKT. BİLGİSAYAR ENERJİ SİST. İNŞ. ve MLZM.TİC.PAZ.SAN.LTD.ŞTİ.",
-   "sehir": "Ankara",
-   "tel": "3123843472",
-   "eposta": "aloto@isnet.net.tr"
-  },
-  {
-   "kod": "194",
-   "firma": "ALP ENERJİ SİSTEMLERİ BİLGİ VE İLETİŞİM TEK. HİZ. SAN. ve TİC. LTD. ŞTİ.",
-   "sehir": "Kocaeli",
-   "tel": "2165619073",
-   "eposta": "atila@alpenerji.com.tr",
-   "site": "https://www.alpenerji.com.tr"
-  },
-  {
-   "kod": "1188",
-   "firma": "ALSTOM ULAŞIM A. Ş.",
-   "sehir": "İstanbul"
-  },
-  {
-   "kod": "872",
-   "firma": "ALTAYTECH ENERJİ A.Ş.",
-   "sehir": "Antalya",
-   "tel": "2422427727",
-   "eposta": "info@altaytech.com.tr",
-   "site": "https://www.altaytech.com.tr"
-  },
-  {
-   "kod": "464",
-   "firma": "ALTERNA ENERJİ SİSTEMLERİ SAN. ve TİC. LTD. ŞTİ",
-   "sehir": "İstanbul",
-   "tel": "2166612778",
-   "eposta": "satis@sarnikon.com",
-   "site": "https://www.sarnikon.com"
-  },
-  {
-   "kod": "1099",
-   "firma": "ALZ TEKNOLOJİ A. Ş.",
-   "sehir": "Ankara"
-  },
-  {
-   "kod": "241",
-   "firma": "ARTI MARİN MOBİL ENERJİ SİSTEMLERİ A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2164939301",
-   "eposta": "erkmen@artimarin.com",
-   "site": "https://www.artimarin.com"
-  },
-  {
-   "kod": "388",
-   "firma": "ARZU BİSİKLET TİCARET ve SAN. A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2125134909",
-   "eposta": "info@arzubisiklet.com",
-   "site": "https://www.arzubisiklet.com"
-  },
-  {
-   "kod": "188",
-   "firma": "ASELSAN ELEKTRONİK SAN. ve TİCARET A. Ş.",
-   "sehir": "Ankara",
-   "tel": "3125920000",
-   "eposta": "vfidan@aselsan.com.tr",
-   "site": "https://www.aselsan.com.tr"
-  },
-  {
-   "kod": "99",
-   "firma": "ASPİLSAN ENERJİ SANAYİ ve TİCARET A. Ş.",
-   "sehir": "Kayseri",
-   "tel": "3523211215",
-   "eposta": "suha.biyikli@aspilsan.com",
-   "site": "https://www.aspilsan.com"
-  },
-  {
-   "kod": "1140",
-   "firma": "ASTOR ENERJİ A. Ş.",
-   "sehir": "Ankara"
-  },
-  {
-   "kod": "433",
-   "firma": "ATLANTIK AKÜ VE ENERJİ SANAYİ DIŞ TİC. LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2123202872",
-   "eposta": "songul@atlantikaku.com.tr",
-   "site": "https://www.atlantikaku.com.tr"
-  },
-  {
-   "kod": "136",
-   "firma": "AYTEMİZ KESİNTİSİZ GÜÇ KAYNAKLARI A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2164286580",
-   "eposta": "aydin.aydinoğlu@makelsan.com.tr",
-   "site": "https://www.makelsan.com.tr"
-  },
-  {
-   "kod": "969",
-   "firma": "BETA ENDÜSTRİYEL MAK. HIRD. LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2165900080",
-   "eposta": "ahmetcinar@betamakina.com",
-   "site": "https://www.betamakina.com"
-  },
-  {
-   "kod": "484",
-   "firma": "BETSİS BİLGİSAYAR VE ENERJİ SİST. SAN. TİC. LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2123205151",
-   "eposta": "cengiz@betsis.com.tr",
-   "site": "https://www.betsis.com.tr"
-  },
-  {
-   "kod": "470",
-   "firma": "BİRİKİM PİLLERİ BATARYA TEKNOLOJİLERİ A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2126299060",
-   "eposta": "info@birikim pilleri.com"
-  },
-  {
-   "kod": "87",
-   "firma": "BORUSAN MAKİNA ve GÜÇ SİSTEMLERİ SAN. ve TİC. A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2123935500",
-   "eposta": "bsuer@borusan.com",
-   "site": "https://www.borusan.com"
-  },
-  {
-   "kod": "34",
-   "firma": "BORUSAN OTOMOTİV İTHALAT VE DAĞITIM A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2124120000",
-   "eposta": "semih.eltugral@borusanotomotiv.com",
-   "site": "https://www.borusanotomotiv.com"
-  },
-  {
-   "kod": "390",
-   "firma": "BORUSAN OTOMOTİV PAZARLAMA VE TİC. A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2124120396",
-   "eposta": "semih.eltugral@borusanotomotiv.com",
-   "site": "https://www.borusanotomotiv.com"
-  },
-  {
-   "kod": "775",
-   "firma": "BOZANKAYA RAYLI SİSTEMLER A. Ş.",
-   "sehir": "Ankara",
-   "tel": "3128154910",
-   "eposta": "info@bozankaya.com",
-   "site": "https://www.bozankaya.com"
-  },
-  {
-   "kod": "1209",
-   "firma": "CAYAŞ ELEKTRİK VE ENERJİ A. Ş.",
-   "sehir": "İstanbul"
-  },
-  {
-   "kod": "1229",
-   "firma": "CHİCAGO PNEUMATİC ENDÜSTRİYEL ÜRÜNLER TİC. A. Ş.",
-   "sehir": "İstanbul"
-  },
-  {
-   "kod": "934",
-   "firma": "CHLORİDE EAST GÜÇ SİSTEMLERİ A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2162651700",
-   "eposta": "atinc.ozgun@chloride.com",
-   "site": "https://www.chloride.com"
-  },
-  {
-   "kod": "952",
-   "firma": "CW ENERJİ MÜHENDİSLİK TİCARET ve SANAYİ A. Ş.",
-   "sehir": "Antalya",
-   "tel": "2422290054",
-   "eposta": "yonetim 1@cw-enerji.com",
-   "site": "https://www.cw-enerji.com"
-  },
-  {
-   "kod": "706",
-   "firma": "ÇINARLAR MOTORLU ARAÇLAR İNŞ. TAAHHÜT TEKSTİL SAN. TİC. LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2164121314",
-   "eposta": "cinarisa@hotmail.com"
-  },
-  {
-   "kod": "786",
-   "firma": "DEKA MARİN DENİZ MALZ. TİC. A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2125484000",
-   "eposta": "sinan@dekamarine.com",
-   "site": "https://www.dekamarine.com"
-  },
-  {
-   "kod": "298",
-   "firma": "DENİZMAR İÇ VE DIŞ TİC. A. Ş.",
-   "sehir": "İzmir",
-   "tel": "2324834218",
-   "eposta": "info@denizmar.com",
-   "site": "https://www.denizmar.com"
-  },
-  {
-   "kod": "1202",
-   "firma": "DİNÇOĞLU AYDINLATMA İTH. İHR. SAN. VE TİC. LTD. ŞTİ.",
-   "sehir": "Şanlıurfa"
-  },
-  {
-   "kod": "882",
-   "firma": "DMY ELEKTRİK OTOMASYON AYDINLATMA SAN VE TİC. A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2165270202",
-   "eposta": "t.araz@dmyeoa.com.tr",
-   "site": "https://www.dmyeoa.com.tr"
-  },
-  {
-   "kod": "843",
-   "firma": "DOĞUŞ İNŞAAT VE TİCARET A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2165381500",
-   "eposta": "dogusinsaat@hs02.kep.tr"
-  },
-  {
-   "kod": "1217",
-   "firma": "DOTVOLT ELEKTRİK ELEKTRONİK ENERJİ SAN. TİC. A. Ş.",
-   "sehir": "İstanbul"
-  },
-  {
-   "kod": "182",
-   "firma": "DRAEGER MEDİKAL TİCARET VE SERVİS A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2164998724",
-   "eposta": "mehmet.ozfen@draeger.com",
-   "site": "https://www.draeger.com"
-  },
-  {
-   "kod": "116",
-   "firma": "EDS ELEKTRONİK DESTEK SANAYİ VE TİC. LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2165284500",
-   "eposta": "oyildiz@eds.com.tr",
-   "site": "https://www.eds.com.tr"
-  },
-  {
-   "kod": "279",
-   "firma": "EKA SİSTEM MÜHENDİSLİK TAAHHÜT A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2123206767",
-   "eposta": "oant@ekasistem.com.tr",
-   "site": "https://www.ekasistem.com.tr"
-  },
-  {
-   "kod": "1056",
-   "firma": "ELS LIFT MAKİNE SAN. TİC. A.Ş.- BURSA ŞB.",
-   "sehir": "Bursa"
-  },
-  {
-   "kod": "548",
-   "firma": "EMİR ENERJİ MOBİL İLETİŞİM HİZ. SAN. TİC. LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2164674400",
-   "eposta": "kemal.alaydin@emirtelekom.com",
-   "site": "https://www.emirtelekom.com"
-  },
-  {
-   "kod": "197",
-   "firma": "ENEL ENERJİ ELEKTRONİK SAN ve TİC. A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2164441856",
-   "eposta": "aakman@enel.com.tr",
-   "site": "https://www.enel.com.tr"
-  },
-  {
-   "kod": "508",
-   "firma": "ENERSYS AKÜ SANAYİ VE DIŞ TİC. LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2164661683",
-   "eposta": "ates.koc@tr.enersys.com",
-   "site": "https://www.tr.enersys.com"
-  },
-  {
-   "kod": "455",
-   "firma": "EPC ENERJİ VE GÜÇ SİSTEMLERİ SAN. VE TİC. A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2164995484",
-   "eposta": "esozmen@epcas.net",
-   "site": "https://www.epcas.net"
-  },
-  {
-   "kod": "917",
-   "firma": "ERBAY YATIRIM ELEKTRONİK SAN.ve TİC. LTD. ŞTİ.",
-   "sehir": "Şanlıurfa"
-  },
-  {
-   "kod": "1111",
-   "firma": "FLUIDRA TR SU VE HAVUZ EKİPMANLARI SAN. ve TİC. A. Ş.",
-   "sehir": "İstanbul"
-  },
-  {
-   "kod": "229",
-   "firma": "GE MEDİKAL SİSTEMLER TÜRKİYE LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2123980750",
-   "eposta": "aysekiziltas@ge.com",
-   "site": "https://www.ge.com"
-  },
-  {
-   "kod": "776",
-   "firma": "GENERAL AKÜ ve ENERJİ SANAYİ DIŞ TİC. LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2122100258",
-   "eposta": "cem-gercek@hotmail.com"
-  },
-  {
-   "kod": "100",
-   "firma": "GESA ELEKTRONİK SANAYİ ve TİCARET LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2165576800",
-   "eposta": "emrah.gur@gesa-elk.com.tr",
-   "site": "https://www.gesa-elk.com.tr"
-  },
-  {
-   "kod": "488",
-   "firma": "GLOBAL POWER SOURCE GÜÇ KAYNAKLARI İTH.İHR. ve SAN. TİC. LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2123556198",
-   "eposta": "elif.guner@rocketbatteries.net",
-   "site": "https://www.rocketbatteries.net"
-  },
-  {
-   "kod": "141",
-   "firma": "GOLFİNTERNATİONAL TURİZM İNŞ. ve TİC. LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2163635993",
-   "eposta": "serdar@golf-international.com",
-   "site": "https://www.golf-international.com"
-  },
-  {
-   "kod": "1235",
-   "firma": "GÜRİŞ İŞ MAKİNALARI ENDÜSTRİ A. Ş.",
-   "sehir": "İstanbul"
-  },
-  {
-   "kod": "1193",
-   "firma": "GÜVEN KEPÇE MAKİNA SAN. ve TİC. A. Ş.",
-   "sehir": "Kocaeli"
-  },
-  {
-   "kod": "75",
-   "firma": "H.BAYKAL AKÜ. SAN. ve TİC. LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2124184904",
-   "eposta": "akalpmustafa@hotmail.com"
-  },
-  {
-   "kod": "1237",
-   "firma": "İNALLAR MADENİ YAĞ SANAYİ ve TİC. A. Ş.",
-   "sehir": "Bursa"
-  },
-  {
-   "kod": "893",
-   "firma": "İNALLAR OTOMOTİV SAN ve TİC. A. Ş.",
-   "sehir": "İzmir",
-   "tel": "5336954312",
-   "eposta": "mithatguzel@makyagsan.com.tr",
-   "site": "https://www.makyagsan.com.tr"
-  },
-  {
-   "kod": "61",
-   "firma": "İNFORM ELEKTRONİK SANAYİ ve TİCARET A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2166225800",
-   "eposta": "asakcilar@inform.com.tr",
-   "site": "https://www.inform.com.tr"
-  },
-  {
-   "kod": "1044",
-   "firma": "KARATAŞLAR HIRD. ELEKT. İTH. İHR. SAN. TİC. LTD. ŞTİ.",
-   "sehir": "Şanlıurfa"
-  },
-  {
-   "kod": "825",
-   "firma": "LİMİT OTOMOBİL MOTOSİKLET ve PETROL ÜRÜNLERİ TİC. A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2126412040",
-   "eposta": "husamettinozer@volkanisik.com",
-   "site": "https://www.volkanisik.com"
-  },
-  {
-   "kod": "1117",
-   "firma": "MEPA ENERJİ SİSTEMLERİ SAN. ve TİC. LTD. ŞTİ.",
-   "sehir": "İstanbul"
-  },
-  {
-   "kod": "1127",
-   "firma": "MEPA YENİLENEBİLİR ENERJİ A. Ş.",
-   "sehir": "İstanbul"
-  },
-  {
-   "kod": "486",
-   "firma": "MERVESAN TEKNOLOJİ ELEK. ELEKTK. AY. İNŞ. İTH. İHR. PAZ. SAN. TİC. LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2122389536",
-   "eposta": "turgay@mervesanelektronik.com",
-   "site": "https://www.mervesanelektronik.com"
-  },
-  {
-   "kod": "910",
-   "firma": "NECRON ENERJİ ELEKTRONİK SANAYİ TİCARET A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2164940444",
-   "eposta": "info@necron.com.tr",
-   "site": "https://www.necron.com.tr"
-  },
-  {
-   "kod": "175",
-   "firma": "NILFISK-ADVANCE PROFESYONEL TEMİZLİK EKİPMANLARI TİC. A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2164669494",
-   "eposta": "taskin.ozdemir@nilfisk.com",
-   "site": "https://www.nilfisk.com"
-  },
-  {
-   "kod": "925",
-   "firma": "NORDEX ENERJİ A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "5312700400",
-   "eposta": "sisen@nordex-online.com",
-   "site": "https://www.nordex-online.com"
-  },
-  {
-   "kod": "1132",
-   "firma": "NORM YEŞİL ENERJİ A. Ş.",
-   "sehir": "Konya"
-  },
-  {
-   "kod": "1220",
-   "firma": "OĞUZHAN İLKILIÇ- (NEOS TEKNOLOJİ)",
-   "sehir": "İzmir"
-  },
-  {
-   "kod": "35",
-   "firma": "OYAK RENAULT OTOMOBİL FABRİKALARI A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2242194500",
-   "eposta": "haluk.sungurlu@renault.com",
-   "site": "https://www.renault.com"
-  },
-  {
-   "kod": "830",
-   "firma": "ÖZSAY DENİZ ELEKTRONİĞİ A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2164933610",
-   "eposta": "nursen.akdeniz@ozsay.com",
-   "site": "https://www.ozsay.com"
-  },
-  {
-   "kod": "900",
-   "firma": "PİLSAN ELEKTRONİK SANAYİ ve TİCARET LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2123209984",
-   "eposta": "feridun@pilsanelektronik.com",
-   "site": "https://www.pilsanelektronik.com"
-  },
-  {
-   "kod": "156",
-   "firma": "PİLSAN PLASTİK VE OYUNCAK SANAYİ A. Ş.",
-   "sehir": "Kırklareli",
-   "tel": "2126891141",
-   "eposta": "sekanardal@pilsan.com.tr",
-   "site": "https://www.pilsan.com.tr"
-  },
-  {
-   "kod": "144",
-   "firma": "REMIVAC MAKİNE-ÇELİK İTH.MÜM. TİCARET VE SANAYİ A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2122330335",
-   "eposta": "remivac@remivac.com",
-   "site": "https://www.remivac.com"
-  },
-  {
-   "kod": "494",
-   "firma": "SADAL TARIM MAKİNELERİ DIŞ TİC.A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2163940040",
-   "eposta": "alpay@sadal.com.tr",
-   "site": "https://www.sadal.com.tr"
-  },
-  {
-   "kod": "581",
-   "firma": "SALKO BİSİKLET SAN. ve TİC. LTD. ŞTİ.",
-   "sehir": "İstanbul"
-  },
-  {
-   "kod": "877",
-   "firma": "SEDER MAKİNA A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2122560035",
-   "eposta": "ofis@sedermakina.com.tr",
-   "site": "https://www.sedermakina.com.tr"
-  },
-  {
-   "kod": "1000",
-   "firma": "SELES ENERJİ SİSTEMLERİ ve PAZ. TİC. LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2163301077",
-   "eposta": "selinb@bercom.com.tr",
-   "site": "https://www.bercom.com.tr"
-  },
-  {
-   "kod": "1218",
-   "firma": "SENTRİC OTOMOTİV YEDEK PARÇA ve SAN. TİC. A. Ş.",
-   "sehir": "İzmir"
-  },
-  {
-   "kod": "778",
-   "firma": "SIEMENS GAMESA RENEWABLE ENERJİ A.Ş.",
-   "sehir": "İstanbul",
-   "tel": "2164592342",
-   "eposta": "TIMUCIN.TORMAC@siemensgamesa.com",
-   "site": "https://www.siemensgamesa.com"
-  },
-  {
-   "kod": "695",
-   "firma": "SIEMENS HEALTHCARE SAĞLIK A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "444 0 633",
-   "eposta": "gurkan.gunay@siemens.com",
-   "site": "https://www.siemens.com"
-  },
-  {
-   "kod": "76",
-   "firma": "SIEMENS SANAYİ ve TİCARET A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2164592615",
-   "eposta": "hale.cakir@siemens.com",
-   "site": "https://www.siemens.com"
-  },
-  {
-   "kod": "504",
-   "firma": "SİEL ENERJİ ELEKTRONİK MÜH. SAN. TİC. LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2166111125",
-   "eposta": "info@siel.com.tr",
-   "site": "https://www.siel.com.tr"
-  },
-  {
-   "kod": "621",
-   "firma": "SNA E ENDÜSTRİYEL MAMÜLLER TİC. LTD.ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2163671021",
-   "eposta": "info@snaeurope.com",
-   "site": "https://www.snaeurope.com"
-  },
-  {
-   "kod": "873",
-   "firma": "SOLİTEK MÜHENDİSLİK ENERJİ ve ELK. SİS. PRO. TAAH. İNŞ. İTH. İHR. SAN. ve TİC. LTD. ŞTİ.",
-   "sehir": "Adana",
-   "tel": "3222902121",
-   "eposta": "ofis@solitek.com.tr",
-   "site": "https://www.solitek.com.tr"
-  },
-  {
-   "kod": "1239",
-   "firma": "SSP DANIŞMANLIK TURİZM İTH. İHR. TİCARET LTD. ŞTİ.",
-   "sehir": "İstanbul"
-  },
-  {
-   "kod": "852",
-   "firma": "T DİNAMİK ENERJİ SAN. ve DIŞ TİC. A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2165241234",
-   "eposta": "muhsin.mazman@tdinamik.com",
-   "site": "https://www.tdinamik.com"
-  },
-  {
-   "kod": "72",
-   "firma": "TELEKOM MÜHENDİSLİK SAN. ve TİC. LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2165754747",
-   "eposta": "seckin.tumkaya@telekomeng.com.tr",
-   "site": "https://www.telekomeng.com.tr"
-  },
-  {
-   "kod": "454",
-   "firma": "TESCOM ELEKTRONİK SAN. ve TİC. A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "8502778877",
-   "eposta": "k.cetiner@tescom-ups.com",
-   "site": "https://www.tescom-ups.com"
-  },
-  {
-   "kod": "885",
-   "firma": "TREV ENERJİ OTOMOTİV A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "5301082767",
-   "eposta": "ozlematacan@trevoto.com",
-   "site": "https://www.trevoto.com"
-  },
-  {
-   "kod": "1137",
-   "firma": "TUNA GÜÇ SİSTEMLERİ ENERJİ LTD. ŞTİ.",
-   "sehir": "İstanbul"
-  },
-  {
-   "kod": "73",
-   "firma": "TUNÇMATİK ELEKTRİK MALZEMELERİ SAN ve TİC A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2163145151",
-   "eposta": "mehmet@tuncmatik.com",
-   "site": "https://www.tuncmatik.com"
-  },
-  {
-   "kod": "183",
-   "firma": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A. Ş.",
-   "sehir": "Kocaeli",
-   "tel": "2623161400",
-   "eposta": "Erkan.Modoglu@tupras.com.tr",
-   "site": "https://www.tupras.com.tr"
-  },
-  {
-   "kod": "217",
-   "firma": "TÜRASAŞ-TÜRKİYE RAYLI SİSTEM ARAÇLARI SAN.A.Ş.-ESKİŞEHİR BÖLGE MÜDÜRLÜĞÜ",
-   "sehir": "Eskişehir",
-   "tel": "2222240000",
-   "eposta": "murat.karaman@turasas.gov.tr",
-   "site": "https://www.turasas.gov.tr"
-  },
-  {
-   "kod": "632",
-   "firma": "UPS ELEKTRONİK TİCARET A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2164669550",
-   "eposta": "ipehlivan@riello-ups.com.tr",
-   "site": "https://www.riello-ups.com.tr"
-  },
-  {
-   "kod": "1158",
-   "firma": "VANTİVE SAĞLIK HİZMETLERİ LTD. ŞTİ.",
-   "sehir": "Ankara"
-  },
-  {
-   "kod": "107",
-   "firma": "VERTİV GÜÇ SİSTEMLERİ LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2165867900",
-   "eposta": "mustafa.kaymazoglu@emerson.com",
-   "site": "https://www.emerson.com"
-  },
-  {
-   "kod": "816",
-   "firma": "VOLKHER ENDÜSTRİYEL OTOM. MAKİNE İML. HAST. EKİPMANLARI SAN. ve TİC. LTD. ŞTİ.",
-   "sehir": "Ankara",
-   "tel": "3123944026",
-   "eposta": "murat.begen@volkher.eu",
-   "site": "https://www.volkher.eu"
-  },
-  {
-   "kod": "459",
-   "firma": "VRLA DIŞ TİCARET LTD. ŞTİ.",
-   "sehir": "İzmir",
-   "tel": "2323756060",
-   "eposta": "osmanvarolan@varolan.com.tr",
-   "site": "https://www.varolan.com.tr"
-  },
-  {
-   "kod": "1246",
-   "firma": "VURAL OTO İÇ VE DIŞ TİC. A. Ş.",
-   "sehir": "İstanbul"
-  },
-  {
-   "kod": "619",
-   "firma": "WACKER NEUSON MAKİNA LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2165749474",
-   "eposta": "Erkan.Tozkpoparan@wackerneuson.com",
-   "site": "https://www.wackerneuson.com"
-  },
-  {
-   "kod": "813",
-   "firma": "YEŞİLYURT MOTORLU ARAÇLAR VE KURYECİLİK SAN ve TİC. LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2163892010",
-   "eposta": "info@yesilyurtmotor.com",
-   "site": "https://www.yesilyurtmotor.com"
-  },
-  {
-   "kod": "870",
-   "firma": "YİBEN DIŞ TİCARET LTD. ŞTİ.",
-   "sehir": "İstanbul",
-   "tel": "2126700888",
-   "eposta": "birandkorez@hotmail.com"
-  },
-  {
-   "kod": "1210",
-   "firma": "YMZ POWER ENERJİ DEPOLAMA SİSTEMLERİ A. Ş.",
-   "sehir": "İstanbul"
-  },
-  {
-   "kod": "781",
-   "firma": "YUKİ ENDÜSTRİYEL MAKİNELER VE MOTOR SAN. A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2124449854",
-   "eposta": "zeynep.germi@yuki.com.tr",
-   "site": "https://www.yuki.com.tr"
-  },
-  {
-   "kod": "597",
-   "firma": "YUKİ MOTORLU ARAÇLAR İMAL VE SATIŞ A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "2124070660",
-   "eposta": "mustafa.sener@yukimotor.com",
-   "site": "https://www.yukimotor.com"
-  },
-  {
-   "kod": "709",
-   "firma": "YUNUSEMRE OTOM. NAK. TURİZM YAT İŞLETMECİLİĞİ İTH. İHR. TİC. SAN. LTD. ŞTİ.",
-   "sehir": "Bursa",
-   "tel": "2244434740",
-   "eposta": "sinan@yunusemreotomotiv.com",
-   "site": "https://www.yunusemreotomotiv.com"
-  },
-  {
-   "kod": "887",
-   "firma": "ZİRAAT FİLO YÖNETİMİ VE MOBİLİTE ÇÖZÜMLERİ A. Ş.",
-   "sehir": "İstanbul",
-   "tel": "5301082768",
-   "eposta": "ozlematacan@zyelektrikli.com",
-   "site": "https://www.zyelektrikli.com"
-  },
-  {
-   "kod": "1248",
-   "firma": "ZİRVETAŞ SULAMA SİSTEMLERİ TARIM TUR. İNŞ. HIRD. PLAS. SAN. ve TİC. LTD. ŞTİ.",
-   "sehir": "İzmir"
-  }
- ],
- "fahri": [
-  {
-   "firma": "4R ÇEVRE VE ENERJİ SAN. VE TİC. A. Ş.- KAPAKLI ŞUBESİ",
-   "sehir": "TEKİRDAĞ"
-  },
-  {
-   "firma": "AKADEMİ ÇEVRE ENTEGRE ATIK YÖNETİMİ ENDÜSTRİ A. Ş.- ADANA ŞUBESİ",
-   "sehir": "ADANA"
-  },
-  {
-   "firma": "AKADEMİ ÇEVRE ENTEGRE ATIK YÖNETİMİ ENDÜSTRİ A.Ş.",
-   "sehir": "İSTANBUL",
-   "tel": "0216 304 25 15",
-   "eposta": "zekican.gunduz@akademicevre.com",
-   "site": "https://www.akademicevre.com"
-  },
-  {
-   "firma": "ALPEREN HURDACILIK-ALPER ARI",
-   "sehir": "MERSİN",
-   "tel": "0537 868 48 51",
-   "eposta": "hasan@alperenhurdacilik.com",
-   "site": "https://www.alperenhurdacilik.com"
-  },
-  {
-   "firma": "ALTUNTAŞLAR HURDA METAL PLASTİK GERİ DÖNŞM. TİC. VE SAN. LTD. ŞTİ.",
-   "sehir": "NİĞDE"
-  },
-  {
-   "firma": "ANADOLU ENTEGRE ATIK YÖNETİMİ A. Ş.",
-   "sehir": "MUĞLA"
-  },
-  {
-   "firma": "ANEL DOĞA ENTEGRE GERİ DÖNÜŞÜM ENDÜSTRİ A.Ş.",
-   "sehir": "KOCAELİ"
-  },
-  {
-   "firma": "ATAKARBON MADEN LOJİSTİK SANAYİ VE TİC.A. Ş.- TURGAY KORKMAZ",
-   "sehir": "KAYSERİ"
-  },
-  {
-   "firma": "ATMOSFER GERİ DÖNÜŞÜM TEHLİKELİ VE TEHLİKESİZ ATIK İŞLEME ENTEGRE TESİSİ SAN. TİC. LTD. ŞTİ.",
-   "sehir": "KAYSERİ"
-  },
-  {
-   "firma": "AY ÇEVRE GERİ DÖNÜŞÜM ATIK YÖN. SAN. VE TİC. LTD. ŞTİ.",
-   "sehir": "İSTANBUL"
-  },
-  {
-   "firma": "BİL-TEK PROJE VE SERVİS HİZ.- CELALETTİN DEMİREL",
-   "sehir": "İSTANBUL"
-  },
-  {
-   "firma": "BİRLİK METAL NAK.SAN. VE TİC. LDT. ŞTİ.- İBRAHİM DAĞ",
-   "sehir": "İSTANBUL"
-  },
-  {
-   "firma": "BURHAN GERİ DÖNÜŞÜM NAK. İNŞ. SAN. VE TİC. LTD. ŞTİ.",
-   "sehir": "ANKARA"
-  },
-  {
-   "firma": "BURKASAN PLAST.ATIK YÖN.VE ÇEVRE DAN.HİZ.İNŞ.SAN.VE TİC. LTD. ŞTİ.- BURSA SERBEST BÖLGE ŞB.",
-   "sehir": "BURSA"
-  },
-  {
-   "firma": "CAFER UÇAR-KAŞ",
-   "sehir": "ANTALYA"
-  },
-  {
-   "firma": "CERAN DEĞERLİ METALLER KİMYA MADENCİLİK SAN. TİC. LTD. ŞTİ.",
-   "sehir": "KOCAELİ"
-  },
-  {
-   "firma": "CHIMIREC AVRASYA ENDÜSTRİYEL ATIK SANAYİ TİC. LTD. ŞTİ.",
-   "sehir": "KOCAELİ"
-  },
-  {
-   "firma": "ÇELİK TİCARET- CUMALİ ÇELİK",
-   "sehir": "KAYSERİ"
-  },
-  {
-   "firma": "DEMİRSAN DEMİR SANAYİ ÜRÜNLERİ VE NAKLİYAT TİCARET LTD. ŞTİ.",
-   "sehir": "İSTANBUL"
-  },
-  {
-   "firma": "DENİZ HURDA METAL GERİ DÖNÜŞÜM SANAYİ VE TİC. LTD. ŞTİ.- ANKARA ŞUBESİ",
-   "sehir": "ANKARA"
-  },
-  {
-   "firma": "DİLEK GERİ DÖNÜŞÜM VE ENTEGRE ATIK YÖN. ENDÜSTRİ TİC.VE SAN. LTD. ŞTİ.",
-   "sehir": "KIRIKKALE"
-  },
-  {
-   "firma": "EAG GERİ DÖNÜŞÜM SANAYİ VE TİCARET A. Ş.",
-   "sehir": "İSTANBUL"
-  },
-  {
-   "firma": "ECİRLİ METAL SANAYİ- MEHMET ECİRLİ",
-   "sehir": "DENİZLİ"
-  },
-  {
-   "firma": "EGE METAL AMBALAJ ATIĞI TOPLAMA AYIRMA VE GERİ DÖNŞM.-RAMAZAN MUSAOĞLU",
-   "sehir": "KÜTAHYA"
-  },
-  {
-   "firma": "EKOVAR ÇEVRE GRUP GERİ DÖN. ATIK DEPO. İNŞ. TAAH. SAN. TİC. A. Ş.",
-   "sehir": "ANKARA"
-  },
-  {
-   "firma": "ELPATRON HURDACILIK İÇ VE DIŞ TİC. LTD. ŞTİ.",
-   "sehir": "MARDİN"
-  },
-  {
-   "firma": "EMG ÇEVRE ENTEGRE ATIK YÖNETİMİ SAN. TİC. LTD. ŞTİ.",
-   "sehir": "İSTANBUL"
-  },
-  {
-   "firma": "EMRE METAL TOPTAN HURDA TİCARET – İSMAİL BENLİ",
-   "sehir": "BURSA",
-   "tel": "0224 215 04 51",
-   "eposta": "hakan@enviramuhendislik.com.tr",
-   "site": "https://www.enviramuhendislik.com.tr"
-  },
-  {
-   "firma": "ER METAL MADENCİLİK SANAYİ VE TİC. LTD. ŞTİ.- KOCAELİ ŞUBESİ",
-   "sehir": "KOCAELİ"
-  },
-  {
-   "firma": "ER METAL MADENCİLİK SANAYİ VE TİC. LTD.ŞTİ.- ACIGÖL ŞUBESİ",
-   "sehir": "NEVŞEHİR"
-  },
-  {
-   "firma": "ERASLAN METAL GERİ DÖNÜŞÜM- KASIM ERASLAN",
-   "sehir": "BURSA"
-  },
-  {
-   "firma": "ERDALLAR TOPTAN HURDA ALIM SATIM- MÜJDAT ERDAL",
-   "sehir": "ANTALYA",
-   "tel": "0533 964 71 12",
-   "eposta": "erdallarhurda@hotmail.com"
-  },
-  {
-   "firma": "ER-KÂ KÂĞIT VE AMBALAJ SANAYİ VE TİC. LTD. ŞTİ.",
-   "sehir": "BURSA"
-  },
-  {
-   "firma": "EROĞLU ÇEVRE END. ATIK YÖN. LTD. ŞTİ.- ŞABAN EROĞLU",
-   "sehir": "KOCAELİ"
-  },
-  {
-   "firma": "EXITCOM RECYCLING ATIK TAŞ. TOP.DEP.ELEK. VE GEMİ SAN. TİC. LTD. ŞTİ.",
-   "sehir": "KOCAELİ"
-  },
-  {
-   "firma": "GEDİZ GENÇ METAL SANAYİ VE TİCARET LTD. ŞTİ.",
-   "sehir": "KÜTAHYA"
-  },
-  {
-   "firma": "HAKBAKIR METAL GERİ DÖNÜŞÜM SANAYİ VE TİC. A. Ş.",
-   "sehir": "BURSA"
-  },
-  {
-   "firma": "HAMBURGER RECYCLING TURKEY ATIK YÖNETİMİ A. Ş.- ÖZGÜR ÇİFTÇİ",
-   "sehir": "İZMİR"
-  },
-  {
-   "firma": "HASMETAL HURDA- FIRAT KAVAKLI",
-   "sehir": "KAYSERİ"
-  },
-  {
-   "firma": "HAŞİMOĞLU ENTEGRE ATIK YÖNETİMİ A. Ş.",
-   "sehir": "MARDİN"
-  },
-  {
-   "firma": "İNOVA GERİ DÖNÜŞÜM METAL TAŞ. VE END. TMZLK. SANAYİ VE TİC. LTD. ŞTİ.",
-   "sehir": "BURSA"
-  },
-  {
-   "firma": "İZ GERİ DÖNÜŞÜM VE NAKLİYAT TİC. LTD. ŞTİ.- FATİH ŞİMŞEK",
-   "sehir": "İSTANBUL"
-  },
-  {
-   "firma": "İZAYDAŞ- İZMİT ATIK VE ARTIKLARI ARITMA, YAKMA VE DEĞERLENDİRME A. Ş.",
-   "sehir": "KOCAELİ"
-  },
-  {
-   "firma": "İZMİRÇEVRE GERİ DÖNÜŞÜM HURDA ELEK. ELEKT. ORG. DAN. SAN. TİC. LTD. ŞTİ",
-   "sehir": "İZMİR"
-  },
-  {
-   "firma": "İZZET SIRÇANCI",
-   "sehir": "AYDIN",
-   "tel": "0256 219 40 11"
-  },
-  {
-   "firma": "KARÇEVRE ENERJİ ENDÜSTRİYEL ATIK YÖN. LOJ. İNŞ. İTH. İHR. SAN. TİC. LTD. ŞTİ.",
-   "sehir": "SAMSUN"
-  },
-  {
-   "firma": "KARDEŞLER HURDA- HİKMET NİĞDELİOĞLU",
-   "sehir": "KÜTAHYA"
-  },
-  {
-   "firma": "KARTEL METAL HURDACILIK NAK.TAAH. GIDA MARKET İNŞ.HARF.SAN. VE TİC. LTD. ŞTİ.",
-   "sehir": "İZMİR"
-  },
-  {
-   "firma": "KISMET HURDA TİCARETİ- AYDOĞAN SABANLI",
-   "sehir": "KÜTAHYA"
-  },
-  {
-   "firma": "KLC ATIK GERİ DÖNÜŞÜM İTH. İHR. SAN. VE TİC. LTD. ŞTİ.",
-   "sehir": "ANKARA"
-  },
-  {
-   "firma": "KOCAELİ ENTEGRE ATIK YÖNETİMİ SAN. TİC. LTD. ŞTİ",
-   "sehir": "KOCAELİ"
-  },
-  {
-   "firma": "MESA AKÜMÜLATÖR SAN. VE TİC. A. Ş.",
-   "sehir": "BURSA"
-  },
-  {
-   "firma": "NAM AKÜ VE AKÜ MALZEMELERİ NAK. HUR. MADEN SAN. TİC. LTD. ŞTİ.",
-   "sehir": "ANKARA"
-  },
-  {
-   "firma": "NİĞDELİOĞLU TİCARET MERKEZ- MUSTAFA NİĞDELİOĞLU",
-   "sehir": "ESKİŞEHİR"
-  },
-  {
-   "firma": "NMG GERİ DÖNÜŞÜM SANAYİ VE TİCARET A.Ş.",
-   "sehir": "İSTANBUL",
-   "tel": "0212 858 06 64",
-   "eposta": "nihat@nmggeridonusum.com.tr",
-   "site": "https://www.nmggeridonusum.com.tr"
-  },
-  {
-   "firma": "OKTAY SADIKLI (UYSAL KARDEŞLER METAL VE GERİ DÖNŞM. SAN.)",
-   "sehir": "İSTANBUL"
-  },
-  {
-   "firma": "ÖMER SADIKLI",
-   "sehir": "KONYA"
-  },
-  {
-   "firma": "ÖZ BIÇAK TOPTAN HURDACILIK-MAHİR BIÇAK",
-   "sehir": "MERSİN",
-   "tel": "0324 229 26 97",
-   "eposta": "mahirbicak@gmail.com"
-  },
-  {
-   "firma": "ÖZ ÜLGER ENTEGRE ATIK YÖNETİMİ ENDÜSTRİ TİC. LTD. ŞTİ.",
-   "sehir": "KIRIKKALE"
-  },
-  {
-   "firma": "ÖZKILIÇ AKÜ METAL SANAYİ VE TİC. LTD. ŞTİ.",
-   "sehir": "ANKARA"
-  },
-  {
-   "firma": "ÖZNAK HUR.GERİ DÖN.ATIK DEĞ. MÜH. HİZM. ORMAN. SAN. TİCARET",
-   "sehir": "BALIKESİR"
-  },
-  {
-   "firma": "ÖZTAŞLAR HURDA PLASTİK SAN. VE TİC. LTD. ŞTİ.",
-   "sehir": "İSTANBUL",
-   "tel": "0216 313 41 07",
-   "eposta": "oztaslarhurdasanayi@msn.com"
-  },
-  {
-   "firma": "ÖZTÜRKSAN METAL GERİ DÖNÜŞÜM İNŞ.ENERJİ SAN.VE TİC. LTD. ŞTİ.",
-   "sehir": "ESKİŞEHİR"
-  },
-  {
-   "firma": "RAMAZAN KOÇYİĞİT METAL HURDACILIK…SAN. VE TİC. LTD. ŞTİ.",
-   "sehir": "MERSİN"
-  },
-  {
-   "firma": "REMER OTOM.YEDEK PAR.REV.PAZ.SAN. TİC. LTD. ŞTİ.",
-   "sehir": "KOCAELİ"
-  },
-  {
-   "firma": "SBC GERİ DÖNÜŞÜM SANAYİ VE TİCARET A. Ş.",
-   "sehir": "ANTALYA"
-  },
-  {
-   "firma": "SELAMİ ENGİN",
-   "sehir": "BOLU",
-   "tel": "0312 396 00 81",
-   "eposta": "info@pozitifatik.com",
-   "site": "https://www.pozitifatik.com"
-  },
-  {
-   "firma": "SEVİL UÇAR AKÜ-SEVİL UÇAR",
-   "sehir": "ANTALYA"
-  },
-  {
-   "firma": "SÜREKO ATIK YÖNETİMİ NAK. LOJ. ELEK. ÜRETİM A. Ş.",
-   "sehir": "MANİSA"
-  },
-  {
-   "firma": "TEKNO GERİ DÖNŞ.HURDA EL.ELK.İN.OR.DAN.İM.SAN.VE DIŞ TİC. LTD. ŞTİ.",
-   "sehir": "ANKARA"
-  },
-  {
-   "firma": "TURYAM GERİ KAZANIM SAN. VE TİC. LTD. ŞTİ.",
-   "sehir": "İÇEL"
-  },
-  {
-   "firma": "ULUKÖK KURŞUN TİCARET VE SAN. LTD. ŞTİ.",
-   "sehir": "GAZİANTEP",
-   "tel": "0342 235 05 70",
-   "eposta": "ulukokkursun@gmail.com"
-  },
-  {
-   "firma": "ÜÇKARDEŞLER METAL GERİ DÖNÜŞÜM SAN. VE TİC. LTD. ŞTİ.",
-   "sehir": "İSTANBUL"
-  },
-  {
-   "firma": "VEBSAN ENDÜSTRİYEL ATIK SANAYİ VE TİC. LTD. ŞTİ.",
-   "sehir": "BURSA",
-   "tel": "0224 211 02 82",
-   "eposta": "vebsan@vebsan.org",
-   "site": "https://www.vebsan.org"
-  },
-  {
-   "firma": "VESSEM ENDÜSTRİYEL ATIK VE MADENCİLİK SAN. TİC. LTD. ŞTİ.",
-   "sehir": "BURSA",
-   "tel": "0224 211 00 03",
-   "eposta": "cevre@vessem.com.tr",
-   "site": "https://www.vessem.com.tr"
-  },
-  {
-   "firma": "YASİN DEMİR- DEMİR AKÜ",
-   "sehir": "ANKARA"
-  },
-  {
-   "firma": "YENMEZ HURDACILIK-MEHMET YENMEZ",
-   "sehir": "KAYSERİ"
-  },
-  {
-   "firma": "YILMAZLAR GRUP GERİ DÖNÜŞÜM SANAYİ VE TİCARET A. Ş.",
-   "sehir": "ANKARA"
-  },
-  {
-   "firma": "YUNUS NEBİLİ- NEBİLİ HURDACILIK",
-   "sehir": "BURSA"
-  }
- ]
+    "asil":  [
+                 {
+                     "kod":  "971",
+                     "firma":  "ALIGN TECH TURKEY TIBBİ CİHAZLAR LTD. ŞTİ.",
+                     "sehir":  "İstanbul"
+                 },
+                 {
+                     "kod":  "68",
+                     "firma":  "ALOTO Otom. Elek. Elekt. Bilgisayar Enerji Sist. İnş. ve Mlzm.Tic.Paz.San.Ltd.Şti.",
+                     "sehir":  "Ankara",
+                     "tel":  "3123843472",
+                     "eposta":  "aloto@isnet.net.tr"
+                 },
+                 {
+                     "kod":  "194",
+                     "firma":  "ALP Enerji Sistemleri Bilgi ve İletişim Tek.Hiz.San.veTic.Ltd.Şti.",
+                     "sehir":  "Kocaeli",
+                     "tel":  "2165619073",
+                     "eposta":  "atila@alpenerji.com.tr",
+                     "site":  "https://www.alpenerji.com.tr"
+                 },
+                 {
+                     "kod":  "1188",
+                     "firma":  "ALSTOM ULAŞIM A. Ş.",
+                     "sehir":  "İstanbul"
+                 },
+                 {
+                     "kod":  "872",
+                     "firma":  "ALTAYTECH Enerji A.Ş.",
+                     "sehir":  "Antalya",
+                     "tel":  "2422427727",
+                     "eposta":  "info@altaytech.com.tr",
+                     "site":  "https://www.altaytech.com.tr"
+                 },
+                 {
+                     "kod":  "464",
+                     "firma":  "ALTERNA Enerji Sistemleri San. ve Tic.Ltd.Şti",
+                     "sehir":  "İstanbul",
+                     "tel":  "2166612778",
+                     "eposta":  "satis@sarnikon.com",
+                     "site":  "https://www.sarnikon.com"
+                 },
+                 {
+                     "kod":  "1099",
+                     "firma":  "ALZ TEKNOLOJİ A. Ş.",
+                     "sehir":  "Ankara"
+                 },
+                 {
+                     "kod":  "241",
+                     "firma":  "ARTI MARİN Mobil Enerji Sistemleri A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2164939301",
+                     "eposta":  "erkmen@artimarin.com",
+                     "site":  "https://www.artimarin.com"
+                 },
+                 {
+                     "kod":  "388",
+                     "firma":  "ARZU BİSİKLET Ticaret ve San. A. Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2125134909",
+                     "eposta":  "info@arzubisiklet.com",
+                     "site":  "https://www.arzubisiklet.com"
+                 },
+                 {
+                     "kod":  "188",
+                     "firma":  "ASELSAN Elektronik San. ve Tic. A. Ş.",
+                     "sehir":  "Ankara",
+                     "tel":  "3125920000",
+                     "eposta":  "vfidan@aselsan.com.tr",
+                     "site":  "https://www.aselsan.com.tr"
+                 },
+                 {
+                     "kod":  "99",
+                     "firma":  "ASPİLSAN Enerji Sanayi ve Ticaret A.Ş.",
+                     "sehir":  "Kayseri",
+                     "tel":  "3523211215",
+                     "eposta":  "suha.biyikli@aspilsan.com",
+                     "site":  "https://www.aspilsan.com"
+                 },
+                 {
+                     "kod":  "1140",
+                     "firma":  "ASTOR Enerji A. Ş.",
+                     "sehir":  "Ankara"
+                 },
+                 {
+                     "kod":  "433",
+                     "firma":  "ATLANTIK AKÜ ve Enerji Sanayi Dış Tic.Ltd.Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2123202872",
+                     "eposta":  "songul@atlantikaku.com.tr",
+                     "site":  "https://www.atlantikaku.com.tr"
+                 },
+                 {
+                     "kod":  "136",
+                     "firma":  "AYTEMİZ Kesintisiz Güç Kaynakları A. Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2164286580",
+                     "eposta":  "aydin.aydinoğlu@makelsan.com.tr",
+                     "site":  "https://www.makelsan.com.tr"
+                 },
+                 {
+                     "kod":  "969",
+                     "firma":  "BETA Endüstriyel Mak. Hırd. Ltd. Şti",
+                     "sehir":  "İstanbul",
+                     "tel":  "2165900080",
+                     "eposta":  "ahmetcinar@betamakina.com",
+                     "site":  "https://www.betamakina.com"
+                 },
+                 {
+                     "kod":  "484",
+                     "firma":  "BETSİS Bilgisayar ve Enerji Sist. San.Tic.Ltd.Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2123205151",
+                     "eposta":  "cengiz@betsis.com.tr",
+                     "site":  "https://www.betsis.com.tr"
+                 },
+                 {
+                     "kod":  "470",
+                     "firma":  "BİRİKİM PİLLERİ Batarya Teknolojileri A. Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2126299060",
+                     "eposta":  "info@birikim pilleri.com"
+                 },
+                 {
+                     "kod":  "87",
+                     "firma":  "BORUSAN Makina ve Güç Sistemleri San. ve Tic. A. Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2123935500",
+                     "eposta":  "bsuer@borusan.com",
+                     "site":  "https://www.borusan.com"
+                 },
+                 {
+                     "kod":  "34",
+                     "firma":  "BORUSAN Otomotiv İthalat ve Dağıtım A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2124120000",
+                     "eposta":  "semih.eltugral@borusanotomotiv.com",
+                     "site":  "https://www.borusanotomotiv.com"
+                 },
+                 {
+                     "kod":  "390",
+                     "firma":  "BORUSAN Otomotiv Pazarlama ve Tic. A. Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2124120396",
+                     "eposta":  "semih.eltugral@borusanotomotiv.com",
+                     "site":  "https://www.borusanotomotiv.com"
+                 },
+                 {
+                     "kod":  "775",
+                     "firma":  "BOZANKAYA RAYLI SİSTEMLER A. Ş.",
+                     "sehir":  "Ankara",
+                     "tel":  "3128154910",
+                     "eposta":  "info@bozankaya.com",
+                     "site":  "https://www.bozankaya.com"
+                 },
+                 {
+                     "kod":  "1209",
+                     "firma":  "CAYAŞ Elektrik ve Enerji A.Ş.",
+                     "sehir":  "İstanbul"
+                 },
+                 {
+                     "kod":  "1229",
+                     "firma":  "Chicago Pneumatic Endüstriyel Ürünler Tic. A. Ş.",
+                     "sehir":  "İstanbul"
+                 },
+                 {
+                     "kod":  "934",
+                     "firma":  "Chloride East Güç Sistemleri A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2162651700",
+                     "eposta":  "atinc.ozgun@chloride.com",
+                     "site":  "https://www.chloride.com"
+                 },
+                 {
+                     "kod":  "952",
+                     "firma":  "CW Enerji Mühendislik Ticaret va Sanayi A. Ş.",
+                     "sehir":  "Antalya",
+                     "tel":  "2422290054",
+                     "eposta":  "yonetim 1@cw-enerji.com",
+                     "site":  "https://www.cw-enerji.com"
+                 },
+                 {
+                     "kod":  "706",
+                     "firma":  "ÇINARLAR Motorlu Araçlar İnş. Taahhüt Tekstil San. Tic. Ltd.Şti",
+                     "sehir":  "İstanbul",
+                     "tel":  "2164121314",
+                     "eposta":  "cinarisa@hotmail.com"
+                 },
+                 {
+                     "kod":  "786",
+                     "firma":  "DEKA Marin Deniz Malz. Tic. A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2125484000",
+                     "eposta":  "sinan@dekamarine.com",
+                     "site":  "https://www.dekamarine.com"
+                 },
+                 {
+                     "kod":  "298",
+                     "firma":  "DENİZMAR İç ve Dış Tic. A. Ş.",
+                     "sehir":  "İzmir",
+                     "tel":  "2324834218",
+                     "eposta":  "info@denizmar.com",
+                     "site":  "https://www.denizmar.com"
+                 },
+                 {
+                     "kod":  "1202",
+                     "firma":  "DİNÇOĞLU AYDINLATMA İth. İhr. San. ve Tic. Ltd. Şti.",
+                     "sehir":  "Şanlıurfa"
+                 },
+                 {
+                     "kod":  "882",
+                     "firma":  "DMY Elektrik Otomasyon Aydınlatma San ve Tic. A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2165270202",
+                     "eposta":  "t.araz@dmyeoa.com.tr",
+                     "site":  "https://www.dmyeoa.com.tr"
+                 },
+                 {
+                     "kod":  "843",
+                     "firma":  "DOĞUŞ İnşaat ve Ticaret A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2165381500",
+                     "eposta":  "dogusinsaat@hs02.kep.tr"
+                 },
+                 {
+                     "kod":  "1217",
+                     "firma":  "DOTVOLT ELEKTRİK ELEKTRONİK ENERJİ SAN. TİC. A. Ş.",
+                     "sehir":  "İstanbul"
+                 },
+                 {
+                     "kod":  "182",
+                     "firma":  "DRAEGER Medikal Ticaret ve Servis A. Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2164998724",
+                     "eposta":  "mehmet.ozfen@draeger.com",
+                     "site":  "https://www.draeger.com"
+                 },
+                 {
+                     "kod":  "116",
+                     "firma":  "EDS Elektronik Destek Sanayi ve Tic. Ltd.Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2165284500",
+                     "eposta":  "oyildiz@eds.com.tr",
+                     "site":  "https://www.eds.com.tr"
+                 },
+                 {
+                     "kod":  "279",
+                     "firma":  "EKA Sistem Mühendislik Taahhüt A.Ş",
+                     "sehir":  "İstanbul",
+                     "tel":  "2123206767",
+                     "eposta":  "oant@ekasistem.com.tr",
+                     "site":  "https://www.ekasistem.com.tr"
+                 },
+                 {
+                     "kod":  "1056",
+                     "firma":  "ELS LIFT Makine San. Tic. A.Ş. Bursa Şb.",
+                     "sehir":  "Bursa"
+                 },
+                 {
+                     "kod":  "548",
+                     "firma":  "EMİR Enerji Mobil İletişim Hiz.San.Tic.Ltd.Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2164674400",
+                     "eposta":  "kemal.alaydin@emirtelekom.com",
+                     "site":  "https://www.emirtelekom.com"
+                 },
+                 {
+                     "kod":  "197",
+                     "firma":  "ENEL Enerji Elektronik San ve Tic. A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2164441856",
+                     "eposta":  "aakman@enel.com.tr",
+                     "site":  "https://www.enel.com.tr"
+                 },
+                 {
+                     "kod":  "508",
+                     "firma":  "ENERSYS Akü Sanayi ve Dış Tic.Ltd.Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2164661683",
+                     "eposta":  "ates.koc@tr.enersys.com",
+                     "site":  "https://www.tr.enersys.com"
+                 },
+                 {
+                     "kod":  "455",
+                     "firma":  "EPC ENERJİ ve Güç Sistemleri San. ve Tic. A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2164995484",
+                     "eposta":  "esozmen@epcas.net",
+                     "site":  "https://www.epcas.net"
+                 },
+                 {
+                     "kod":  "917",
+                     "firma":  "ERBAY Yatırım Elektronik San.ve Tic. Ltd. Şti",
+                     "sehir":  "Şanlıurfa"
+                 },
+                 {
+                     "kod":  "1111",
+                     "firma":  "FLUIDRA TR Su ve Havuz Ekipmanları San. ve Tic. A. Ş.",
+                     "sehir":  "İstanbul"
+                 },
+                 {
+                     "kod":  "229",
+                     "firma":  "GE Medikal Sistemler Türkiye Ltd. Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2123980750",
+                     "eposta":  "aysekiziltas@ge.com",
+                     "site":  "https://www.ge.com"
+                 },
+                 {
+                     "kod":  "776",
+                     "firma":  "GENERAL Akü ve Enerji Sanayi Dış Tic. Ltd.Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2122100258",
+                     "eposta":  "cem-gercek@hotmail.com"
+                 },
+                 {
+                     "kod":  "100",
+                     "firma":  "GESA Elektronik Sanayi ve Ticaret Ltd.Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2165576800",
+                     "eposta":  "emrah.gur@gesa-elk.com.tr",
+                     "site":  "https://www.gesa-elk.com.tr"
+                 },
+                 {
+                     "kod":  "488",
+                     "firma":  "GLOBAL POWER SOURCE Güç Kaynakları İth.İhr. ve San.Tic.Ltd.Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2123556198",
+                     "eposta":  "elif.guner@rocketbatteries.net",
+                     "site":  "https://www.rocketbatteries.net"
+                 },
+                 {
+                     "kod":  "141",
+                     "firma":  "GOLFinternational Turizm İnş. ve Tic.Ltd.Şti",
+                     "sehir":  "İstanbul",
+                     "tel":  "2163635993",
+                     "eposta":  "serdar@golf-international.com",
+                     "site":  "https://www.golf-international.com"
+                 },
+                 {
+                     "kod":  "1235",
+                     "firma":  "GÜRİŞ İŞ MAKİNALARI ENDÜSTRİ A.Ş.",
+                     "sehir":  "İstanbul"
+                 },
+                 {
+                     "kod":  "1193",
+                     "firma":  "GÜVEN KEPÇE MAKİNA SAN. VE TİC. A. Ş.",
+                     "sehir":  "Kocaeli"
+                 },
+                 {
+                     "kod":  "75",
+                     "firma":  "H.BAYKAL Akü. San. ve Tic. Ltd.Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2124184904",
+                     "eposta":  "akalpmustafa@hotmail.com"
+                 },
+                 {
+                     "kod":  "1237",
+                     "firma":  "İNALLAR MADENİ YAĞ SANAYİ VE TİC. A.Ş.",
+                     "sehir":  "Bursa"
+                 },
+                 {
+                     "kod":  "893",
+                     "firma":  "İNALLAR Otomotiv San ve Tic. A.Ş.",
+                     "sehir":  "İzmir",
+                     "tel":  "5336954312",
+                     "eposta":  "mithatguzel@makyagsan.com.tr",
+                     "site":  "https://www.makyagsan.com.tr"
+                 },
+                 {
+                     "kod":  "61",
+                     "firma":  "İNFORM Elektronik Sanayi ve Ticaret A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2166225800",
+                     "eposta":  "asakcilar@inform.com.tr",
+                     "site":  "https://www.inform.com.tr"
+                 },
+                 {
+                     "kod":  "1044",
+                     "firma":  "KARATAŞLAR Hırd. Elekt. İth. İhr. San.Tic.Ltd.Şti.",
+                     "sehir":  "Şanlıurfa"
+                 },
+                 {
+                     "kod":  "825",
+                     "firma":  "LİMİT Otomobil Motosiklet ve Petrol Ürünleri Tic. A. Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2126412040",
+                     "eposta":  "husamettinozer@volkanisik.com",
+                     "site":  "https://www.volkanisik.com"
+                 },
+                 {
+                     "kod":  "1117",
+                     "firma":  "MEPA Enerji Sistemleri San. ve Tic. Ltd. Şti.",
+                     "sehir":  "İstanbul"
+                 },
+                 {
+                     "kod":  "1127",
+                     "firma":  "MEPA Yenilenebilir Enerji A.Ş.",
+                     "sehir":  "İstanbul"
+                 },
+                 {
+                     "kod":  "486",
+                     "firma":  "MERVESAN Teknoloji Elek. Elektk. Ay.İnş.İth.İhr.Paz.San.Tic.Ltd.Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2122389536",
+                     "eposta":  "turgay@mervesanelektronik.com",
+                     "site":  "https://www.mervesanelektronik.com"
+                 },
+                 {
+                     "kod":  "910",
+                     "firma":  "NECRON ENERJİ Elektronik Sanayi Tic. A. Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2164940444",
+                     "eposta":  "info@necron.com.tr",
+                     "site":  "https://www.necron.com.tr"
+                 },
+                 {
+                     "kod":  "175",
+                     "firma":  "NILFISK-ADVANCE Profesyonel Temizlik Ekipmanları Tic.A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2164669494",
+                     "eposta":  "taskin.ozdemir@nilfisk.com",
+                     "site":  "https://www.nilfisk.com"
+                 },
+                 {
+                     "kod":  "925",
+                     "firma":  "NORDEX Enerji A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "5312700400",
+                     "eposta":  "sisen@nordex-online.com",
+                     "site":  "https://www.nordex-online.com"
+                 },
+                 {
+                     "kod":  "1132",
+                     "firma":  "NORM Yeşil Enerji A. Ş.",
+                     "sehir":  "Konya"
+                 },
+                 {
+                     "kod":  "1220",
+                     "firma":  "OĞUZHAN İLKILIÇ- (NEOS TEKNOLOJİ)",
+                     "sehir":  "İzmir"
+                 },
+                 {
+                     "kod":  "35",
+                     "firma":  "OYAK RENAULT Otomobil Fabrikaları A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2242194500",
+                     "eposta":  "haluk.sungurlu@renault.com",
+                     "site":  "https://www.renault.com"
+                 },
+                 {
+                     "kod":  "830",
+                     "firma":  "ÖZSAY Deniz Elektroniği A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2164933610",
+                     "eposta":  "nursen.akdeniz@ozsay.com",
+                     "site":  "https://www.ozsay.com"
+                 },
+                 {
+                     "kod":  "900",
+                     "firma":  "PİLSAN Elektronik Sanayi ve Ticaret Ltd. Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2123209984",
+                     "eposta":  "feridun@pilsanelektronik.com",
+                     "site":  "https://www.pilsanelektronik.com"
+                 },
+                 {
+                     "kod":  "156",
+                     "firma":  "PİLSAN Plastik ve Oyuncak Sanayi A.Ş.",
+                     "sehir":  "Kırklareli",
+                     "tel":  "2126891141",
+                     "eposta":  "sekanardal@pilsan.com.tr",
+                     "site":  "https://www.pilsan.com.tr"
+                 },
+                 {
+                     "kod":  "144",
+                     "firma":  "REMIVAC Makine-Çelik İth.Müm. Ticaret ve Sanayi A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2122330335",
+                     "eposta":  "remivac@remivac.com",
+                     "site":  "https://www.remivac.com"
+                 },
+                 {
+                     "kod":  "494",
+                     "firma":  "SADAL Tarım Makineleri Dış Tic.A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2163940040",
+                     "eposta":  "alpay@sadal.com.tr",
+                     "site":  "https://www.sadal.com.tr"
+                 },
+                 {
+                     "kod":  "581",
+                     "firma":  "SALKO Bisiklet San. ve Tic. Ltd.Şti.",
+                     "sehir":  "İstanbul"
+                 },
+                 {
+                     "kod":  "877",
+                     "firma":  "SEDER MAKİNA A. Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2122560035",
+                     "eposta":  "ofis@sedermakina.com.tr",
+                     "site":  "https://www.sedermakina.com.tr"
+                 },
+                 {
+                     "kod":  "1000",
+                     "firma":  "SELES Enerji Sistemleri ve Paz. Tic. Ltd. Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2163301077",
+                     "eposta":  "selinb@bercom.com.tr",
+                     "site":  "https://www.bercom.com.tr"
+                 },
+                 {
+                     "kod":  "1218",
+                     "firma":  "SENTRİC OTOMOTİV YEDEK PARÇA VE SAN. TİC. A. Ş.",
+                     "sehir":  "İzmir"
+                 },
+                 {
+                     "kod":  "778",
+                     "firma":  "SIEMENS Gamesa Renewable Enerji A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2164592342",
+                     "eposta":  "TIMUCIN.TORMAC@siemensgamesa.com",
+                     "site":  "https://www.siemensgamesa.com"
+                 },
+                 {
+                     "kod":  "695",
+                     "firma":  "SIEMENS Healthcare Sağlık A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "444 0 633",
+                     "eposta":  "gurkan.gunay@siemens.com",
+                     "site":  "https://www.siemens.com"
+                 },
+                 {
+                     "kod":  "76",
+                     "firma":  "SIEMENS Sanayi ve Ticaret A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2164592615",
+                     "eposta":  "hale.cakir@siemens.com",
+                     "site":  "https://www.siemens.com"
+                 },
+                 {
+                     "kod":  "504",
+                     "firma":  "SİEL ENERJİ Elektronik Müh.San.Tic. Ltd.Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2166111125",
+                     "eposta":  "info@siel.com.tr",
+                     "site":  "https://www.siel.com.tr"
+                 },
+                 {
+                     "kod":  "621",
+                     "firma":  "SNA E Endüstriyel Mamüller Tic.Ltd.Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2163671021",
+                     "eposta":  "info@snaeurope.com",
+                     "site":  "https://www.snaeurope.com"
+                 },
+                 {
+                     "kod":  "873",
+                     "firma":  "SOLİTEK Mühendislik Enerji ve Elk.Sis.Pro.Taah.İnş.İth.İhr.San.veTic.Ltd.Şti.",
+                     "sehir":  "Adana",
+                     "tel":  "3222902121",
+                     "eposta":  "ofis@solitek.com.tr",
+                     "site":  "https://www.solitek.com.tr"
+                 },
+                 {
+                     "kod":  "1239",
+                     "firma":  "SSP DANIŞMANLIK Turizm İth. İhr. Ticaret Ltd.Şti.",
+                     "sehir":  "İstanbul"
+                 },
+                 {
+                     "kod":  "852",
+                     "firma":  "T Dinamik Enerji San. Ve Dış Tic. A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2165241234",
+                     "eposta":  "muhsin.mazman@tdinamik.com",
+                     "site":  "https://www.tdinamik.com"
+                 },
+                 {
+                     "kod":  "1252",
+                     "firma":  "TEKMOTO MOTORLU ARAÇLAR SAN. TİCARET LTD. ŞTİ.",
+                     "sehir":  "İstanbul"
+                 },
+                 {
+                     "kod":  "72",
+                     "firma":  "TELEKOM Mühendislik San. ve Tic. Ltd.Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2165754747",
+                     "eposta":  "seckin.tumkaya@telekomeng.com.tr",
+                     "site":  "https://www.telekomeng.com.tr"
+                 },
+                 {
+                     "kod":  "454",
+                     "firma":  "TESCOM Elektronik San. ve Tic. A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "8502778877",
+                     "eposta":  "k.cetiner@tescom-ups.com",
+                     "site":  "https://www.tescom-ups.com"
+                 },
+                 {
+                     "kod":  "885",
+                     "firma":  "TREV Enerji Otomotiv A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "5301082767",
+                     "eposta":  "ozlematacan@trevoto.com",
+                     "site":  "https://www.trevoto.com"
+                 },
+                 {
+                     "kod":  "1137",
+                     "firma":  "TUNA GÜÇ Sistemleri Enerji Ltd. Şti.",
+                     "sehir":  "İstanbul"
+                 },
+                 {
+                     "kod":  "73",
+                     "firma":  "TUNÇMATİK Elektrik Malzemeleri San ve Tic A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2163145151",
+                     "eposta":  "mehmet@tuncmatik.com",
+                     "site":  "https://www.tuncmatik.com"
+                 },
+                 {
+                     "kod":  "183",
+                     "firma":  "TÜPRAŞ-Türkiye Petrol Rafinerileri A.Ş.",
+                     "sehir":  "Kocaeli",
+                     "tel":  "2623161400",
+                     "eposta":  "Erkan.Modoglu@tupras.com.tr",
+                     "site":  "https://www.tupras.com.tr"
+                 },
+                 {
+                     "kod":  "217",
+                     "firma":  "TÜRASAŞ-Türkiye Raylı Sistem Araçları San.A.Ş.-Eskişehir Bölge Müdürlüğü",
+                     "sehir":  "Eskişehir",
+                     "tel":  "2222240000",
+                     "eposta":  "murat.karaman@turasas.gov.tr",
+                     "site":  "https://www.turasas.gov.tr"
+                 },
+                 {
+                     "kod":  "632",
+                     "firma":  "UPS Elektronik Ticaret A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2164669550",
+                     "eposta":  "ipehlivan@riello-ups.com.tr",
+                     "site":  "https://www.riello-ups.com.tr"
+                 },
+                 {
+                     "kod":  "1158",
+                     "firma":  "VANTİVE SAĞLIK HİZMETLERİ LTD. ŞTİ.",
+                     "sehir":  "Ankara"
+                 },
+                 {
+                     "kod":  "107",
+                     "firma":  "Vertiv Güç Sistemleri Ltd. Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2165867900",
+                     "eposta":  "mustafa.kaymazoglu@emerson.com",
+                     "site":  "https://www.emerson.com"
+                 },
+                 {
+                     "kod":  "816",
+                     "firma":  "VOLKHER Endüstriyel Otom. Makine İml. Hast. Ekipmanları San.veTic.Ltd.Şti",
+                     "sehir":  "Ankara",
+                     "tel":  "3123944026",
+                     "eposta":  "murat.begen@volkher.eu",
+                     "site":  "https://www.volkher.eu"
+                 },
+                 {
+                     "kod":  "459",
+                     "firma":  "VRLA Dış Ticaret Ltd.Şti.",
+                     "sehir":  "İzmir",
+                     "tel":  "2323756060",
+                     "eposta":  "osmanvarolan@varolan.com.tr",
+                     "site":  "https://www.varolan.com.tr"
+                 },
+                 {
+                     "kod":  "1246",
+                     "firma":  "VURAL OTO İÇ VE DIŞ TİC. A.Ş.",
+                     "sehir":  "İstanbul"
+                 },
+                 {
+                     "kod":  "619",
+                     "firma":  "WACKER NEUSON Makina Ltd.Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2165749474",
+                     "eposta":  "Erkan.Tozkpoparan@wackerneuson.com",
+                     "site":  "https://www.wackerneuson.com"
+                 },
+                 {
+                     "kod":  "813",
+                     "firma":  "YEŞİLYURT Motorlu Araçlar ve Kuryecilik San ve Tic. Ltd.Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2163892010",
+                     "eposta":  "info@yesilyurtmotor.com",
+                     "site":  "https://www.yesilyurtmotor.com"
+                 },
+                 {
+                     "kod":  "870",
+                     "firma":  "YİBEN Dış Ticaret Ltd.Şti.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2126700888",
+                     "eposta":  "birandkorez@hotmail.com"
+                 },
+                 {
+                     "kod":  "1210",
+                     "firma":  "YMZ POWER Enerji Depolama Sistemleri A.Ş.",
+                     "sehir":  "İstanbul"
+                 },
+                 {
+                     "kod":  "781",
+                     "firma":  "YUKİ Endüstriyel Makineler ve Motor San. A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2124449854",
+                     "eposta":  "zeynep.germi@yuki.com.tr",
+                     "site":  "https://www.yuki.com.tr"
+                 },
+                 {
+                     "kod":  "597",
+                     "firma":  "YUKİ Motorlu Araçlar İmal Ve Satış A.Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "2124070660",
+                     "eposta":  "mustafa.sener@yukimotor.com",
+                     "site":  "https://www.yukimotor.com"
+                 },
+                 {
+                     "kod":  "709",
+                     "firma":  "YUNUSEMRE Otom. Nak. Turizm Yat İşletmeciliği İth.İhr.Tic.San.Ltd.Şti.",
+                     "sehir":  "Bursa",
+                     "tel":  "2244434740",
+                     "eposta":  "sinan@yunusemreotomotiv.com",
+                     "site":  "https://www.yunusemreotomotiv.com"
+                 },
+                 {
+                     "kod":  "887",
+                     "firma":  "ZİRAAT FİLO YÖNETİMİ VE MOBİLİTE ÇÖZÜMLERİ A. Ş.",
+                     "sehir":  "İstanbul",
+                     "tel":  "5301082768",
+                     "eposta":  "ozlematacan@zyelektrikli.com",
+                     "site":  "https://www.zyelektrikli.com"
+                 },
+                 {
+                     "kod":  "1248",
+                     "firma":  "ZİRVETAŞ SULAMA SİSTEMLERİ TARIM TUR. İNŞ. HIRD. PLAS. SAN. VE TİC. LTD. ŞTİ.",
+                     "sehir":  "İzmir"
+                 }
+             ],
+    "fahri":  [
+                  {
+                      "firma":  "4R ÇEVRE VE ENERJİ SAN. VE TİC. A. Ş. - KAPAKLI ŞUBE",
+                      "sehir":  "Tekirdağ"
+                  },
+                  {
+                      "firma":  "AKADEMİ ÇEVRE ENTEGRE ATIK YÖNETİMİ ENDÜSTRİ A. Ş.- ADANA ŞB.",
+                      "sehir":  "Adana"
+                  },
+                  {
+                      "firma":  "AKADEMİ ÇEVRE ENTEGRE ATIK YÖNETİMİ ENDÜSTRİ A.Ş.",
+                      "sehir":  "İstanbul",
+                      "tel":  "0216 304 25 15",
+                      "eposta":  "zekican.gunduz@akademicevre.com",
+                      "site":  "https://www.akademicevre.com"
+                  },
+                  {
+                      "firma":  "AKADEMİ ÇEVRE ENTEGRE ATIK YÖNETİMİ ENDÜSTRİ A.Ş.- AKYURT ŞB.",
+                      "sehir":  "Ankara"
+                  },
+                  {
+                      "firma":  "ALPEREN Hurdacılık-Alper Arı",
+                      "sehir":  "Mersin",
+                      "tel":  "0537 868 48 51",
+                      "eposta":  "hasan@alperenhurdacilik.com",
+                      "site":  "https://www.alperenhurdacilik.com"
+                  },
+                  {
+                      "firma":  "ALTUNTAŞLAR HURDA METAL PLASTİK G. DÖNŞM. TİC. ve SAN. LTD. ŞTİ",
+                      "sehir":  "Niğde"
+                  },
+                  {
+                      "firma":  "ANADOLU ENTEGRE ATIK YÖNETİMİ A. Ş.",
+                      "sehir":  "Muğla"
+                  },
+                  {
+                      "firma":  "ANEL DOĞA ENTEGRE GERİ DÖNÜŞÜM ENDÜSTRİ A.Ş.",
+                      "sehir":  "Kocaeli"
+                  },
+                  {
+                      "firma":  "ATAKARBON MADEN LOJİSTİK SAN. VE TİC.A.Ş. - TURGAY KORKMAZ",
+                      "sehir":  "Kayseri"
+                  },
+                  {
+                      "firma":  "ATMOSFER G. DÖNÜŞÜM TEHLİKELİ VE TEHLİKESİZ ATIK İŞLEME ENTEGRE TESİSİ SAN. TİC. LTD. ŞTİ.",
+                      "sehir":  "Kayseri"
+                  },
+                  {
+                      "firma":  "AY ÇEVRE GERİ DÖNÜŞÜM ATIK YÖN. SAN. VE TİC. LTD. ŞTİ.",
+                      "sehir":  "İstanbul"
+                  },
+                  {
+                      "firma":  "BİL-TEK PROJE ve SERVİS HİZ. - Celalettin DEMİREL",
+                      "sehir":  "İstanbul"
+                  },
+                  {
+                      "firma":  "BİRLİK METAL NAK.SAN. VE TİC. LDT.ŞTİ. - İBRAHİM DAĞ",
+                      "sehir":  "İstanbul"
+                  },
+                  {
+                      "firma":  "BURHAN GERİ DÖNÜŞÜM NAK. İNŞ. SAN. VE TİC. LTD. ŞTİ.",
+                      "sehir":  "Ankara"
+                  },
+                  {
+                      "firma":  "BURKASAN PLAST.ATIK YÖN.VE ÇEVRE DAN.HİZ.İNŞ.SAN.VE TİC.LTD.ŞTİ.- Bursa Serbest Bölge Şb.",
+                      "sehir":  "Bursa"
+                  },
+                  {
+                      "firma":  "CAFER UÇAR-Kaş",
+                      "sehir":  "Antalya"
+                  },
+                  {
+                      "firma":  "Ceran Değerli Metaller Kimya Madencilik San.Tic. Ltd.Şti.",
+                      "sehir":  "Kocaeli"
+                  },
+                  {
+                      "firma":  "CHIMIREC AVRASYA ENDÜSTRİYEL ATIK SAN. TİC. LTD. ŞTİ.",
+                      "sehir":  "Kocaeli"
+                  },
+                  {
+                      "firma":  "ÇELİK TİCARET - CUMALİ ÇELİK",
+                      "sehir":  "Kayseri"
+                  },
+                  {
+                      "firma":  "DEMİRSAN Demir San. Ürünleri ve Nakliyat Ticaret Ltd.Şti.",
+                      "sehir":  "İstanbul"
+                  },
+                  {
+                      "firma":  "DENİZ HURDA METAL GERİ DÖN. SAN. VE TİC. LTD. ŞTİ.- ANKARA ŞB.",
+                      "sehir":  "Ankara"
+                  },
+                  {
+                      "firma":  "DİLEK GERİ DÖNÜŞÜM VE ENTEGRE ATIK YÖN. ENDÜSTRİ TİC.VE SAN. LTD. ŞTİ.",
+                      "sehir":  "Kırıkkale"
+                  },
+                  {
+                      "firma":  "DURSUN ÇİNKAYA ( DURKAYA METAL)",
+                      "sehir":  "Ankara"
+                  },
+                  {
+                      "firma":  "EAG GERİ DÖNÜŞÜM SANAYİ VE TİCARET A.Ş",
+                      "sehir":  "İstanbul"
+                  },
+                  {
+                      "firma":  "ECİRLİ METAL SANAYİ - MEHMET ECİRLİ",
+                      "sehir":  "Denizli"
+                  },
+                  {
+                      "firma":  "EGE METAL AMBALAJ ATIĞI TOPLAMA AYIRMA VE G.DÖNŞM.-RAMAZAN MUSAOĞLU",
+                      "sehir":  "Kütahya"
+                  },
+                  {
+                      "firma":  "EKOVAR Çevre Grup Geri Dön. Atık Depo. İnş. Taah. San.Tic. A.Ş.",
+                      "sehir":  "Ankara"
+                  },
+                  {
+                      "firma":  "ELPATRON HURDACILIK İÇ VE DIŞ TİC. LTD. ŞTİ.",
+                      "sehir":  "Mardin"
+                  },
+                  {
+                      "firma":  "EMG ÇEVRE ENTEGRE ATIK YÖNETİMİ SAN. TİC. LTD. ŞTİ.",
+                      "sehir":  "İstanbul"
+                  },
+                  {
+                      "firma":  "EMRE METAL TOPTAN HURDA TİCARET – İSMAİL BENLİ",
+                      "sehir":  "Bursa",
+                      "tel":  "0224 215 04 51",
+                      "eposta":  "hakan@enviramuhendislik.com.tr",
+                      "site":  "https://www.enviramuhendislik.com.tr"
+                  },
+                  {
+                      "firma":  "ER METAL MADENCİLİK SAN. VE TİC. LTD. ŞTİ. - KOCAELİ",
+                      "sehir":  "Kocaeli"
+                  },
+                  {
+                      "firma":  "ER METAL MADENCİLİK SAN. VE TİC. LTD.ŞTİ.- ACIGÖL ŞB.",
+                      "sehir":  "Nevşehir"
+                  },
+                  {
+                      "firma":  "ERASLAN METAL GERİ DÖNÜŞÜM - KASIM ERASLAN",
+                      "sehir":  "Bursa"
+                  },
+                  {
+                      "firma":  "ERDALLAR TOPTAN HURDA ALIM SATIM- MÜJDAT ERDAL",
+                      "sehir":  "Antalya",
+                      "tel":  "0533 964 71 12",
+                      "eposta":  "erdallarhurda@hotmail.com"
+                  },
+                  {
+                      "firma":  "ER-KÂ KÂĞIT VE AMBALAJ SAN. VE TİC. LTD. ŞTİ.",
+                      "sehir":  "Bursa"
+                  },
+                  {
+                      "firma":  "EROĞLU ÇEVRE END. ATIK YÖN. LTD.ŞTİ. - ŞABAN EROĞLU",
+                      "sehir":  "Kocaeli"
+                  },
+                  {
+                      "firma":  "EXITCOM RECYCLING ATIK TAŞ. TOP.DEP.ELEK. VE GEMİ SAN.TİC.LTD.ŞTİ.",
+                      "sehir":  "Kocaeli"
+                  },
+                  {
+                      "firma":  "GEDİZ GENÇ METAL SANAYİ VE TİCARET Ltd.Şti.",
+                      "sehir":  "Kütahya"
+                  },
+                  {
+                      "firma":  "HAKBAKIR Metal Geri Dönüşüm San. Ve Tic. A.Ş.",
+                      "sehir":  "Bursa"
+                  },
+                  {
+                      "firma":  "HAMBURGER RECYCLING TURKEY ATIK YÖNETİMİ A.Ş - ÖZGÜR ÇİFTÇİ",
+                      "sehir":  "İzmir"
+                  },
+                  {
+                      "firma":  "HASMETAL HURDA-FIRAT KAVAKLI",
+                      "sehir":  "Kayseri"
+                  },
+                  {
+                      "firma":  "HAŞİMOĞLU ENTEGRE ATIK YÖNETİMİ A.Ş.",
+                      "sehir":  "Mardin"
+                  },
+                  {
+                      "firma":  "İNOVA GERİ DÖNÜŞÜM METAL TAŞ. VE END. TMZLK. SAN. VE TİC. LTD. ŞTİ.",
+                      "sehir":  "Bursa"
+                  },
+                  {
+                      "firma":  "İRGİ METAL TİCARET PAZ. LTD. ŞTİ.",
+                      "sehir":  "İstanbul"
+                  },
+                  {
+                      "firma":  "İZ GERİ DÖNÜŞÜM VE NAKLİYAT TİC. LTD.ŞTİ. - FATİH ŞİMŞEK",
+                      "sehir":  "İstanbul"
+                  },
+                  {
+                      "firma":  "İZAYDAŞ- İzmit Atık ve Artıkları Arıtma, Yakma ve Değerlendirme A.Ş.",
+                      "sehir":  "Kocaeli"
+                  },
+                  {
+                      "firma":  "İZMİRÇEVRE Geri Dönüşüm Hurda Elek. Elekt. Org. Dan. San.Tic.Ltd.Şti",
+                      "sehir":  "İzmir"
+                  },
+                  {
+                      "firma":  "İZZET SIRÇANCI",
+                      "sehir":  "Aydın",
+                      "tel":  "0256 219 40 11"
+                  },
+                  {
+                      "firma":  "KARÇEVRE ENERJİ ENDÜSTRİYEL ATIK YÖN.LOJ.İNŞ.İTH.İHR.SAN.TİC.LTD.ŞTİ.",
+                      "sehir":  "Samsun"
+                  },
+                  {
+                      "firma":  "KARDEŞLER HURDA - HİKMET NİĞDELİOĞLU",
+                      "sehir":  "Kütahya"
+                  },
+                  {
+                      "firma":  "KARTEL METAL HURDACILIK NAK.TAAH. GIDA MARKET İNŞ.HARF.SAN. ve TİC.LTD.ŞTİ.",
+                      "sehir":  "İzmir"
+                  },
+                  {
+                      "firma":  "KISMET HURDA TİCARETİ- AYDOĞAN SABANLI",
+                      "sehir":  "Kütahya"
+                  },
+                  {
+                      "firma":  "KLC ATIK GERİ DÖNÜŞÜM İTH. İHR. SAN. VE TİC. LTD. ŞTİ.",
+                      "sehir":  "Ankara"
+                  },
+                  {
+                      "firma":  "KOCAELİ ENTEGRE ATIK YÖNETİMİ SAN. TİC. LTD. ŞTİ",
+                      "sehir":  "Kocaeli"
+                  },
+                  {
+                      "firma":  "MESA AKÜMÜLATÖR SAN. VE TİC. A. Ş.",
+                      "sehir":  "Bursa"
+                  },
+                  {
+                      "firma":  "NAM AKÜ ve AKÜ MALZEMELERİ NAK. HUR. MADEN SAN. TİC. LTD. ŞTİ.",
+                      "sehir":  "Ankara"
+                  },
+                  {
+                      "firma":  "NİĞDELİOĞLU TİCARET Merkez- MUSTAFA NİĞDELİOĞLU",
+                      "sehir":  "Eskişehir"
+                  },
+                  {
+                      "firma":  "NMG GERİ DÖNÜŞÜM SANAYİ VE TİCARET A.Ş.",
+                      "sehir":  "İstanbul",
+                      "tel":  "0212 858 06 64",
+                      "eposta":  "nihat@nmggeridonusum.com.tr",
+                      "site":  "https://www.nmggeridonusum.com.tr"
+                  },
+                  {
+                      "firma":  "OKTAY SADIKLI (UYSAL KARDEŞLER METAL ve GERİ DÖNŞM. SAN.)",
+                      "sehir":  "İstanbul"
+                  },
+                  {
+                      "firma":  "ÖMER SADIKLI",
+                      "sehir":  "Konya"
+                  },
+                  {
+                      "firma":  "ÖZ BIÇAK TOPTAN HURDACILIK-MAHİR BIÇAK",
+                      "sehir":  "Mersin",
+                      "tel":  "0324 229 26 97",
+                      "eposta":  "mahirbicak@gmail.com"
+                  },
+                  {
+                      "firma":  "ÖZ ÜLGER ENTEGRE ATIK YÖNETİMİ ENDÜSTRİ TİC. LTD. ŞTİ.",
+                      "sehir":  "Kırıkkale"
+                  },
+                  {
+                      "firma":  "ÖZKILIÇ AKÜ METAL SANAYİ VE TİC. LTD.ŞTİ.",
+                      "sehir":  "Ankara"
+                  },
+                  {
+                      "firma":  "ÖZNAK HUR.GERİ DÖN.ATIK DEĞ.MÜH.HİZM.ORMAN.SAN.TİC",
+                      "sehir":  "Balıkesir"
+                  },
+                  {
+                      "firma":  "ÖZTAŞLAR HURDA PLASTİK SAN. ve TİC. LTD. ŞTİ.",
+                      "sehir":  "İstanbul",
+                      "tel":  "0216 313 41 07",
+                      "eposta":  "oztaslarhurdasanayi@msn.com"
+                  },
+                  {
+                      "firma":  "ÖZTÜRKSAN METAL GERİ DÖNÜŞÜM İNŞ.ENERJİ SAN.VE TİC. LTD. ŞTİ.",
+                      "sehir":  "Eskişehir"
+                  },
+                  {
+                      "firma":  "Ramazan Koçyiğit Metal Hurdacılık…San. ve Tic. Ltd. Şti.",
+                      "sehir":  "Mersin"
+                  },
+                  {
+                      "firma":  "REMER OTOM.YEDEK PAR.REV.PAZ.SAN.TİC.LTD.ŞTİ.",
+                      "sehir":  "Kocaeli"
+                  },
+                  {
+                      "firma":  "SBC GERİ DÖNÜŞÜM SANAYİ VE TİCARET A. Ş.",
+                      "sehir":  "Antalya"
+                  },
+                  {
+                      "firma":  "SELAMİ ENGİN",
+                      "sehir":  "Bolu",
+                      "tel":  "0312 396 00 81",
+                      "eposta":  "info@pozitifatik.com",
+                      "site":  "https://www.pozitifatik.com"
+                  },
+                  {
+                      "firma":  "Sevil UÇAR AKÜ-Sevil Uçar",
+                      "sehir":  "Antalya"
+                  },
+                  {
+                      "firma":  "SÜREKO ATIK YÖNETİMİ NAK. LOJ. ELEK. ÜRETİM A. Ş.",
+                      "sehir":  "Manisa"
+                  },
+                  {
+                      "firma":  "TEKNO GERİ DÖNŞ.HURDA EL.ELK.İN.OR.DAN.İM.SAN.ve DIŞ TİC.LTD.ŞTİ.",
+                      "sehir":  "Ankara"
+                  },
+                  {
+                      "firma":  "TURYAM GERİ KAZANIM .. SAN. ve TİC. LTD.ŞTİ",
+                      "sehir":  "İçel"
+                  },
+                  {
+                      "firma":  "ULUKÖK Kurşun Ticaret ve San. Ltd. Şti.",
+                      "sehir":  "Gaziantep",
+                      "tel":  "0342 235 05 70",
+                      "eposta":  "ulukokkursun@gmail.com"
+                  },
+                  {
+                      "firma":  "ÜÇKARDEŞLER Metal Geri Dönüşüm San. Ve Tic. Ltd.Şti.",
+                      "sehir":  "İstanbul"
+                  },
+                  {
+                      "firma":  "VEBSAN ENDÜSTRİYEL ATIK SANAYİ VE TİC. LTD. ŞTİ.",
+                      "sehir":  "Bursa",
+                      "tel":  "0224 211 02 82",
+                      "eposta":  "vebsan@vebsan.org",
+                      "site":  "https://www.vebsan.org"
+                  },
+                  {
+                      "firma":  "VESSEM ENDÜSTRİYEL ATIK VE MADENCİLİK SAN. TİC. LTD. ŞTİ.",
+                      "sehir":  "Bursa",
+                      "tel":  "0224 211 00 03",
+                      "eposta":  "cevre@vessem.com.tr",
+                      "site":  "https://www.vessem.com.tr"
+                  },
+                  {
+                      "firma":  "YASİN DEMİR- Demir Akü",
+                      "sehir":  "Ankara"
+                  },
+                  {
+                      "firma":  "YENMEZ HURDACILIK-MEHMET YENMEZ",
+                      "sehir":  "Kayseri"
+                  },
+                  {
+                      "firma":  "YILMAZLAR GRUP GERİ DÖNÜŞÜM SANAYİ VE TİCARET A.Ş.",
+                      "sehir":  "Ankara"
+                  },
+                  {
+                      "firma":  "YUNUS NEBİLİ- NEBİLİ HURDACILIK",
+                      "sehir":  "Bursa"
+                  },
+                  {
+                      "firma":  "ZAFER GERİ DÖNÜŞÜM NAKLİYE VE METAL İÇ VE DIŞ TİC. LTD.ŞTİ.",
+                      "sehir":  "İstanbul"
+                  }
+              ]
 }

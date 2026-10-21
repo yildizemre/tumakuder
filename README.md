@@ -36,7 +36,7 @@ Sitenin içeriğinin büyük kısmı JSON'dan gelir; HTML'e dokunmadan güncelle
 
 | Dosya | İçerik |
 |---|---|
-| `uyeler.json` | 111 asil üye + 55 fahri üye. Tablolar, harita ve arama bu dosyadan beslenir. `site` alanı firma adının bağlandığı adrestir. |
+| `uyeler.json` | 104 asil üye + 83 fahri üye. Tablolar, harita ve arama bu dosyadan beslenir. `site` alanı firma adının bağlandığı adrestir. |
 | `tuzuk.json` | 19 bölüm, 201 madde. Tüzük sayfası ve bölüm çipleri buradan üretilir. |
 | `takvim.json` | Yükümlülük tarihleri (`tip`: yillik / ceyreklik / aylik / surekli). Kartlar bugüne göre sıralanır. |
 | `bedeller.json` | Yıllara göre GEKAP / depozito tutarları. **Tutarlar `null` olduğu sürece hesaplayıcı 0 gösterir.** |

@@ -96,6 +96,14 @@ table{border-collapse:collapse;width:100%}
 .brand{display:flex;align-items:center;gap:.6rem;flex-shrink:0}
 .brand img{height:40px;width:auto}
 .brand span{display:none}
+.brand{flex-direction:column;align-items:flex-start;gap:3px}
+.kurum-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:16px}
+.kurum{display:flex;flex-direction:column;align-items:center;gap:10px;padding:18px 14px;background:#fff;border:1px solid var(--line);border-radius:var(--radius-md);text-align:center;transition:border-color .2s,box-shadow .2s,transform .2s}
+.kurum:hover{border-color:var(--green-400);box-shadow:0 10px 24px -14px rgba(12,51,37,.35);transform:translateY(-2px)}
+.kurum__logo{height:72px;display:flex;align-items:center;justify-content:center}
+.kurum__logo img{max-height:72px;max-width:150px;width:auto;object-fit:contain}
+.kurum__ad{font-size:.82rem;font-weight:600;color:var(--ink-600);line-height:1.35}
+.brand__slogan{font-family:var(--font-head);font-size:.72rem;font-weight:600;font-style:italic;color:var(--green-600);letter-spacing:.01em;white-space:nowrap;line-height:1}
 
 .main-nav{margin-left:auto}
 .main-nav>ul{display:flex;align-items:center;gap:2px;list-style:none;margin:0;padding:0}
