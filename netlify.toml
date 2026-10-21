@@ -31,7 +31,7 @@
   status = 301
 [[redirects]]
   from = "/index.php/fahri-uye-firma-listesi/*"
-  to = "/uyeler.html#fahri"
+  to = "/fahri-uyeler.html"
   status = 301
 [[redirects]]
   from = "/index.php/atik-akumulator-depozito-uygulamasi-sistemi/*"

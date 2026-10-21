@@ -97,6 +97,23 @@ table{border-collapse:collapse;width:100%}
 .brand img{height:40px;width:auto}
 .brand span{display:none}
 .brand{flex-direction:column;align-items:flex-start;gap:3px}
+.brand .brand__satir{display:flex;align-items:center;gap:8px}
+.brand__ad{font-family:var(--font-head);font-weight:800;font-size:1.7rem;letter-spacing:-.015em;color:var(--green-800);line-height:1}
+.gk-bant{padding:34px 0 10px}
+.gk-kart{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:34px;align-items:center;padding:22px;background:linear-gradient(135deg,var(--green-900),var(--green-700));border-radius:var(--radius-lg);color:#fff;box-shadow:0 24px 48px -28px rgba(12,51,37,.6)}
+.gk-kart__gorsel{display:block;border-radius:var(--radius-md);overflow:hidden;line-height:0}
+.gk-kart__gorsel img{width:100%;height:auto;transition:transform .5s}
+.gk-kart__gorsel:hover img{transform:scale(1.03)}
+.gk-kart__icerik{padding:6px 10px 6px 0}
+.gk-etiket{display:inline-block;padding:.3rem .8rem;border-radius:99px;background:var(--amber-500,#f5a623);color:#1b1b1b;font-family:var(--font-head);font-weight:700;font-size:.74rem;letter-spacing:.06em;text-transform:uppercase}
+.gk-kart h2{color:#fff;margin:.55em 0 .4em;font-size:clamp(1.4rem,2.4vw,1.95rem)}
+.gk-kart p{color:rgba(255,255,255,.82);margin:0 0 1.2em}
+.gk-toplantilar{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:22px}
+.gk-toplanti{padding:14px 16px;border:1px solid rgba(255,255,255,.18);border-radius:var(--radius-md);background:rgba(255,255,255,.06)}
+.gk-toplanti small{display:block;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:#9fe0bd;font-weight:700}
+.gk-toplanti b{display:block;font-family:var(--font-head);font-size:1rem;margin:.3em 0 .25em}
+.gk-toplanti span{font-size:.84rem;color:rgba(255,255,255,.75);line-height:1.4}
+@media (max-width:860px){.gk-kart{grid-template-columns:1fr;gap:20px;padding:16px}.gk-kart__icerik{padding:0 4px 6px}.gk-toplantilar{grid-template-columns:1fr}}
 .kurum-slider{padding:14px 0 18px;width:100%;min-width:0;contain:inline-size}
 .kurum-slider .marquee__track{animation-duration:38s;align-items:stretch}
 .kurum{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;width:210px;flex-shrink:0;padding:20px 16px;background:#fff;border:1px solid var(--line);border-radius:var(--radius-md);text-align:center;transition:border-color .3s,box-shadow .3s,transform .3s}
@@ -584,6 +601,7 @@ table.data a:hover{color:var(--amber-600)}
   .container{padding-inline:18px}
   .header-inner{height:76px;padding-inline:16px}
   .brand img{height:32px}
+  .brand__ad{font-size:1.35rem}
   .header-contact .ico{width:46px;height:46px}
   .hero__frame{min-height:460px}
   .hero__content{padding:48px 24px 48px 46px}
