@@ -173,6 +173,10 @@ for (const dosya of dosyalar) {
     .replace('{{JSONLD}}', jsonld)
     .replace('{{CONTENT}}', icerikWebp);
 
+  // Sayfaya özel paylaşım görseli (image:) ve içerik türü (type: article)
+  if (meta.image) cikti = cikti.split('assets/img/og-kapak.png').join(meta.image);
+  if (meta.type) cikti = cikti.replace('<meta property="og:type" content="website">', `<meta property="og:type" content="${meta.type}">`);
+
   if (meta.nav) {
     cikti = cikti.replace(
       new RegExp('<li data-nav="' + meta.nav + '"'),

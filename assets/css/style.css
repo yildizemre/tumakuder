@@ -99,6 +99,17 @@ table{border-collapse:collapse;width:100%}
 .brand{flex-direction:column;align-items:flex-start;gap:3px}
 .brand .brand__satir{display:flex;align-items:center;gap:8px}
 .brand__ad{font-family:var(--font-head);font-weight:800;font-size:1.7rem;letter-spacing:-.015em;color:var(--green-800);line-height:1}
+.hv-spot{font-size:1.12rem;line-height:1.6;color:var(--ink-800,#1d2b26);border-left:4px solid #00c8dc;padding:.2em 0 .2em 1em}
+.hv-ozellikler{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px;margin:1.4em 0 1.8em}
+.hv-ozellik{display:flex;gap:14px;align-items:flex-start;padding:16px 18px;background:#fff;border:1px solid var(--line);border-radius:var(--radius-md);transition:border-color .25s,box-shadow .25s,transform .25s}
+.hv-ozellik:hover{border-color:#00c8dc;box-shadow:0 12px 26px -18px rgba(10,45,85,.45);transform:translateY(-2px)}
+.hv-ozellik .ico{flex-shrink:0;width:42px;height:42px;display:grid;place-items:center;border-radius:12px;background:linear-gradient(135deg,#e6fafc,#e8f5ee);color:#0a2d55}
+.hv-ozellik b{display:block;font-family:var(--font-head);color:var(--green-800);margin-bottom:.2em}
+.hv-ozellik p{margin:0;font-size:.92rem;color:var(--ink-600)}
+.hv-cta{margin-top:2em;padding:28px;border-radius:var(--radius-lg);background:linear-gradient(120deg,var(--green-900),#0a2d55);color:#fff}
+.hv-cta img{width:200px;height:auto;margin:0 0 14px}
+.prose .hv-cta p{color:rgba(255,255,255,.9);margin:0 0 18px}
+.prose .hv-cta a:not(.btn){color:#7ce8f2}
 .gk-bant{padding:34px 0 10px}
 .gk-kart{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:34px;align-items:center;padding:22px;background:linear-gradient(135deg,var(--green-900),var(--green-700));border-radius:var(--radius-lg);color:#fff;box-shadow:0 24px 48px -28px rgba(12,51,37,.6)}
 .gk-kart__gorsel{display:block;border-radius:var(--radius-md);overflow:hidden;line-height:0}
