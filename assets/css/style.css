@@ -124,6 +124,7 @@ table{border-collapse:collapse;width:100%}
 .gk-toplanti small{display:block;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:#9fe0bd;font-weight:700}
 .gk-toplanti b{display:block;font-family:var(--font-head);font-size:1rem;margin:.3em 0 .25em}
 .gk-toplanti span{font-size:.84rem;color:rgba(255,255,255,.75);line-height:1.4}
+.gk-toplanti a{color:#9fe0bd;font-weight:600;text-decoration:underline;text-underline-offset:2px}
 @media (max-width:860px){.gk-kart{grid-template-columns:1fr;gap:20px;padding:16px}.gk-kart__icerik{padding:0 4px 6px}.gk-toplantilar{grid-template-columns:1fr}}
 .kurum-slider{padding:14px 0 18px;width:100%;min-width:0;contain:inline-size}
 .kurum-slider .marquee__track{animation-duration:38s;align-items:stretch}
